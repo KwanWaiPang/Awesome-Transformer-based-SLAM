@@ -7,6 +7,9 @@
 
 ## Transformer-based SLAM
 
+<!-- |-|`arXiv`|-|-|-| -->
+<!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
+
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
 |2025|`CVPR`|[MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors](https://arxiv.org/pdf/2412.12392)|[![Github stars](https://img.shields.io/github/stars/rmurai0610/MASt3R-SLAM.svg)](https://github.com/rmurai0610/MASt3R-SLAM)|[Website](https://edexheim.github.io/mast3r-slam/) <br> [Test](https://kwanwaipang.github.io/MASt3R-SLAM/)
@@ -16,9 +19,13 @@
 
 ## Transformer-based Pose Tracking
 
+<!-- |-|`arXiv`|-|-|-| -->
+<!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
+
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
 |2025|`IEEE Acess`|[Transformer-based model for monocular visual odometry: a video understanding approach](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10845764)|[![Github stars](https://img.shields.io/github/stars/aofrancani/TSformer-VO.svg)](https://github.com/aofrancani/TSformer-VO)|-|
+|2024|`arXiv`|[MASt3R-SfM: a Fully-Integrated Solution for Unconstrained Structure-from-Motion](https://arxiv.org/pdf/2409.19152)|[![Github stars](https://img.shields.io/github/stars/naver/mast3r.svg)](https://github.com/naver/mast3r/tree/mast3r_sfm)|MASt3R sfm version|
 |2024|Msc Thesis|[End-to-End Learned Visual Odometry Based on Vision Transformer](https://www.utupub.fi/bitstream/handle/10024/178848/Aman_Manishbhai_Vyas_Thesis.pdf?sequence=1)|-|-|
 |2024|`arXiv`|[Causal Transformer for Fusion and Pose Estimation in Deep Visual Inertial Odometry](https://arxiv.org/pdf/2409.08769)|[![Github stars](https://img.shields.io/github/stars/ybkurt/VIFT.svg)](https://github.com/ybkurt/VIFT)|-|
 |2024|`IJRA`|[DDETR-SLAM: A Transformer-Based Approach to Pose Optimization in Dynamic Environments](https://assets-eu.researchsquare.com/files/rs-2965479/v1_covered_409a1161-fe39-4b94-9411-68639c8215b1.pdf)|-|-|
@@ -30,6 +37,9 @@
 |2021|`Neural Computing and Applications`|[Transformer guided geometry model for flow-based unsupervised visual odometry](https://arxiv.org/pdf/2101.02143)|-|-|
 
 ## Transformer-based Optical Flow
+
+<!-- |-|`arXiv`|-|-|-| -->
+<!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
@@ -45,6 +55,9 @@
 
 
 ## Transformer-based Mapping
+
+<!-- |-|`arXiv`|-|-|-| -->
+<!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
@@ -84,8 +97,6 @@
 |2021|`ICCV`|[Transformer-Based Attention Networks for Continuous Pixel-Wise Prediction](https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_Transformer-Based_Attention_Networks_for_Continuous_Pixel-Wise_Prediction_ICCV_2021_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/ygjwd12345/TransDepth.svg)](https://github.com/ygjwd12345/TransDepth)|-|
 |2021|`ICCV`|[Vision transformers for dense prediction](https://openaccess.thecvf.com/content/ICCV2021/papers/Ranftl_Vision_Transformers_for_Dense_Prediction_ICCV_2021_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/isl-org/DPT.svg)](https://github.com/isl-org/DPT)|-|
 
-
-
 <!-- |-|`arXiv`|-|-|-| -->
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 
@@ -93,11 +104,5 @@
 * [Awesome-Transformer-Attention](https://github.com/cmhungsteve/Awesome-Transformer-Attention)
 * [Dense-Prediction-Transformer-Based-Visual-Odometry](https://github.com/sumedhreddy90/Dense-Prediction-Transformer-Based-Visual-Odometry)
 * [Visual SLAM with Vision Transformers(ViT)](https://github.com/MisterEkole/slam_with_vit)
-
-
-
-
-
-
 
 
