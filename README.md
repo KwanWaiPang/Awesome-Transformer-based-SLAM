@@ -1,7 +1,7 @@
 # Paper List
 - [Transformer-based SLAM](#Transformer-based-SLAM)
-- [Transformer-based Mapping](#driver-installation)
-- [Transformer-based Pose Tracking](#data-sequence)
+- [Transformer-based Mapping](#Transformer-based-Mapping)
+- [Transformer-based Pose Tracking](#Transformer-based-Pose-Tracking)
 
 ## Transformer-based SLAM
 
