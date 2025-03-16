@@ -41,7 +41,7 @@
 |2022|`arXiv`|[Dense prediction transformer for scale estimation in monocular visual odometry](https://arxiv.org/pdf/2210.01723)|---|---|
 |2021|`Neural Computing and Applications`|[Transformer guided geometry model for flow-based unsupervised visual odometry](https://arxiv.org/pdf/2101.02143)|---|---|
 
-## Transformer-based Optical Flow
+## Transformer-based Optical Flow / Data Assoication
 
 <!-- |---|`arXiv`|---|---|---| -->
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
@@ -52,6 +52,8 @@
 |2023|`arXiv`|[Flowformer: A transformer architecture and its masked cost volume autoencoding for optical flow](https://arxiv.org/pdf/2306.05442)|---|---|
 |2023|`CVPR`|[FlowFormer++: Masked Cost Volume Autoencoding for Pretraining Optical Flow Estimation](https://openaccess.thecvf.com/content/CVPR2023/papers/Shi_FlowFormer_Masked_Cost_Volume_Autoencoding_for_Pretraining_Optical_Flow_Estimation_CVPR_2023_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/XiaoyuShi97/FlowFormerPlusPlus.svg)](https://github.com/XiaoyuShi97/FlowFormerPlusPlus)|---|
 |2023|`CVPR`|[Transflow: Transformer as flow learner](http://openaccess.thecvf.com/content/CVPR2023/papers/Lu_TransFlow_Transformer_As_Flow_Learner_CVPR_2023_paper.pdf)|---|---|
+|2023|`ICCV`|[Croco v2: Improved cross-view completion pre-training for stereo matching and optical flow]([https://proceedings.neurips.cc/paper_files/paper/2022/file/16e71d1a24b98a02c17b1be1f634f979-Paper-Conference.pdf](https://openaccess.thecvf.com/content/ICCV2023/papers/Weinzaepfel_CroCo_v2_Improved_Cross-view_Completion_Pre-training_for_Stereo_Matching_and_ICCV_2023_paper.pdf))|[![Github stars](https://img.shields.io/github/stars/naver/croco.svg)](https://github.com/naver/croco)|Cross view Match|
+|2022|`NIPS`|[Croco: Self-supervised pre-training for 3d vision tasks by cross-view completion](https://proceedings.neurips.cc/paper_files/paper/2022/file/16e71d1a24b98a02c17b1be1f634f979-Paper-Conference.pdf)|[![Github stars](https://img.shields.io/github/stars/naver/croco.svg)](https://github.com/naver/croco)|Cross view Match|
 |2022|`CVPR`|[Craft: Cross-attentional flow transformer for robust optical flow](http://openaccess.thecvf.com/content/CVPR2022/papers/Sui_CRAFT_Cross-Attentional_Flow_Transformer_for_Robust_Optical_Flow_CVPR_2022_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/askerlee/craft.svg)](https://github.com/askerlee/craft)|---|
 |2022|`CVPR`|[Learning optical flow with kernel patch attention](https://openaccess.thecvf.com/content/CVPR2022/papers/Luo_Learning_Optical_Flow_With_Kernel_Patch_Attention_CVPR_2022_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/megvii-research/KPAFlow.svg)](https://github.com/megvii-research/KPAFlow)|---|
 |2022|`CVPR`|[Global Matching with Overlapping Attention for Optical Flow Estimation](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhao_Global_Matching_With_Overlapping_Attention_for_Optical_Flow_Estimation_CVPR_2022_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/xiaofeng94/GMFlowNet.svg)](https://github.com/xiaofeng94/GMFlowNet)|---|
