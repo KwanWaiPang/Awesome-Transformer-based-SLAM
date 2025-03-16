@@ -42,6 +42,7 @@
 |2021|`Neural Computing and Applications`|[Transformer guided geometry model for flow-based unsupervised visual odometry](https://arxiv.org/pdf/2101.02143)|---|---|
 
 ## Transformer-based Optical Flow 
+
 or Data Assoication
 
 <!-- |---|`arXiv`|---|---|---| -->
@@ -63,6 +64,8 @@ or Data Assoication
 
 
 ## Transformer-based Mapping
+
+or depth estimation or 3D reconstruction
 
 <!-- |---|`arXiv`|---|---|---| -->
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
