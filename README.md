@@ -119,7 +119,7 @@ or Data Assoication
 |:----:|:-----:| ----------- |:----------:|:----:|
 |2021|`ICML`|[Is space-time attention all you need for video understanding?](https://arxiv.org/pdf/2102.05095)|[![Github stars](https://img.shields.io/github/stars/facebookresearch/TimeSformer.svg)](https://github.com/facebookresearch/TimeSformer)|TimeSformer|
 |2021|`ICCV`|[Vivit: A video vision transformer](https://openaccess.thecvf.com/content/ICCV2021/papers/Arnab_ViViT_A_Video_Vision_Transformer_ICCV_2021_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/lucidrains/vit-pytorch.svg)](https://github.com/lucidrains/vit-pytorch)|---|
-|2020|`CoLR`|[An image is worth 16x16 words: Transformers for image recognition at scale](https://arxiv.org/pdf/2010.11929/1000)|[![Github stars](https://img.shields.io/github/stars/google-research/vision_transformer.svg)](https://github.com/google-research/vision_transformer)|ViT|
+|2020|`ICLR`|[An image is worth 16x16 words: Transformers for image recognition at scale](https://arxiv.org/pdf/2010.11929/1000)|[![Github stars](https://img.shields.io/github/stars/google-research/vision_transformer.svg)](https://github.com/google-research/vision_transformer)|ViT|
 
 
 <!-- |---|`arXiv`|---|---|---| -->
