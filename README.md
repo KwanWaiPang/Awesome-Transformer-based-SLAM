@@ -2,7 +2,13 @@
 
 This repository contains a curated list of resources addressing SLAM related task employing Transformer, including optical flow, view/feature correspondences, stereo matching, depth estimation, 3D reconstruction, pose estimation, etc.
 
+If you find some ignored papers, **feel free to [*create pull requests*](https://github.com/KwanWaiPang/Awesome-Transformer-based-SLAM/blob/main/How-to-PR.md), or [*open issues*](https://github.com/KwanWaiPang/Awesome-Transformer-based-SLAM/issues/new). 
+
+Contributions in any form to make this list more comprehensive are welcome.
+
 If you find this repositorie is useful, a simple star should be the best affirmation. 😊
+
+Feel free to share this list with others!
 
 - [Transformer-based SLAM](#Transformer-based-SLAM)
 - [Transformer-based Pose Tracking](#Transformer-based-Pose-Tracking)
