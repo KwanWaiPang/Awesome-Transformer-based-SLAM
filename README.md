@@ -92,7 +92,7 @@ or Data Assoication, Correspondences
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
-|2025|`CVPR`|[VGGT: Visual Geometry Grounded Transformer](https://arxiv.org/pdf/2503.11651)|[![Github stars](https://img.shields.io/github/stars/facebookresearch/vggt.svg)](https://github.com/facebookresearch/vggt)|[Test](https://kwanwaipang.github.io/VGGT/)|
+|2025|`CVPR`|[VGGT: Visual Geometry Grounded Transformer](https://arxiv.org/pdf/2503.11651)|[![Github stars](https://img.shields.io/github/stars/facebookresearch/vggt.svg)](https://github.com/facebookresearch/vggt)|[website](https://vgg-t.github.io/)<br>[Test](https://kwanwaipang.github.io/VGGT/)|
 |2024|`ECCV`|[Grounding Image Matching in 3D with MASt3R](https://arxiv.org/pdf/2406.09756)|[![Github stars](https://img.shields.io/github/stars/naver/mast3r.svg)](https://github.com/naver/mast3r)| [Website](https://europe.naverlabs.com/blog/mast3r-matching-and-stereo-3d-reconstruction/) <br> [Test](https://kwanwaipang.github.io/File/Blogs/Poster/MASt3R-SLAM.html)
 |2022|`ICARM`|[Tlcd: A transformer based loop closure detection for robotic visual slam](https://howardli0816.github.io/files/TLCD_A_Transformer_based_Loop_Closure_Detection_for_Robotic_Visual_SLAM.pdf)|---|---|
 |2021|`ICCV`|[Cotr: Correspondence transformer for matching across images](https://openaccess.thecvf.com/content/ICCV2021/papers/Jiang_COTR_Correspondence_Transformer_for_Matching_Across_Images_ICCV_2021_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/ubc-vision/COTR.svg)](https://github.com/ubc-vision/COTR)|---| 
