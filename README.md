@@ -1,4 +1,9 @@
-# Paper Survey for Transformer-based SLAM
+# Awesome Transformer-based SLAM
+
+This repository contains a curated list of resources addressing Transformer-based SLAM, including optical flow, stereo matching, depth estimation, 3D reconstruction, pose estimation, etc.
+
+If you find this repositorie is useful, a simple star should be the best affirmation. 😊
+
 - [Transformer-based SLAM](#Transformer-based-SLAM)
 - [Transformer-based Pose Tracking](#Transformer-based-Pose-Tracking)
 - [Transformer-based Optical Flow](#Transformer-based-Optical-Flow)
