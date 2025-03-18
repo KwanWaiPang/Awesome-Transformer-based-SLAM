@@ -8,6 +8,8 @@
 
 ## Transformer-based SLAM
 
+Full SLAM, including pose and depth
+
 <!-- |---|`arXiv`|---|---|---| -->
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 
