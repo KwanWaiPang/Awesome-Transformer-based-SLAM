@@ -67,6 +67,7 @@ Full SLAM, including pose and depth
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2024|`ECCV`|[Cotracker: It is better to track together](https://arxiv.org/pdf/2307.07635)|[![Github stars](https://img.shields.io/github/stars/facebookresearch/co-tracker.svg)](https://github.com/facebookresearch/co-tracker)|---|
 |2023|`arXiv`|[Win-win: Training high-resolution vision transformers from two windows](https://arxiv.org/pdf/2310.00632)|---|---|
 |2023|`arXiv`|[Flowformer: A transformer architecture and its masked cost volume autoencoding for optical flow](https://arxiv.org/pdf/2306.05442)|---|---|
 |2023|`CVPR`|[FlowFormer++: Masked Cost Volume Autoencoding for Pretraining Optical Flow Estimation](https://openaccess.thecvf.com/content/CVPR2023/papers/Shi_FlowFormer_Masked_Cost_Volume_Autoencoding_for_Pretraining_Optical_Flow_Estimation_CVPR_2023_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/XiaoyuShi97/FlowFormerPlusPlus.svg)](https://github.com/XiaoyuShi97/FlowFormerPlusPlus)|---|
