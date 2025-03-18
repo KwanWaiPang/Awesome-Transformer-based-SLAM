@@ -156,6 +156,7 @@ or depth estimation or 3D reconstruction
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2024|`Transactions on Machine Learning Research Journal`|[Dinov2: Learning robust visual features without supervision](https://arxiv.org/pdf/2304.07193)|[![Github stars](https://img.shields.io/github/stars/facebookresearch/dinov2.svg)](https://github.com/facebookresearch/dinov2)|DINO2|
 |2021|`ICML`|[Is space-time attention all you need for video understanding?](https://arxiv.org/pdf/2102.05095)|[![Github stars](https://img.shields.io/github/stars/facebookresearch/TimeSformer.svg)](https://github.com/facebookresearch/TimeSformer)|TimeSformer|
 |2021|`ICCV`|[Emerging properties in self-supervised vision transformers](https://openaccess.thecvf.com/content/ICCV2021/papers/Caron_Emerging_Properties_in_Self-Supervised_Vision_Transformers_ICCV_2021_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/facebookresearch/dino.svg)](https://github.com/facebookresearch/dino)|DINO<br>SSL| 
 |2021|`ICCV`|[Vivit: A video vision transformer](https://openaccess.thecvf.com/content/ICCV2021/papers/Arnab_ViViT_A_Video_Vision_Transformer_ICCV_2021_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/lucidrains/vit-pytorch.svg)](https://github.com/lucidrains/vit-pytorch)|---|
