@@ -43,8 +43,6 @@
 
 ## Transformer-based Optical Flow 
 
-or Data Assoication
-
 <!-- |---|`arXiv`|---|---|---| -->
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 
@@ -66,6 +64,9 @@ or Data Assoication
 
 
 ## Transformer-based View Matching
+
+or Data Assoication, Correspondences
+
 <!-- |---|`arXiv`|---|---|---| -->
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 
