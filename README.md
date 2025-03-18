@@ -73,6 +73,7 @@ or Data Assoication
 |:----:|:-----:| ----------- |:----------:|:----:|
 |2024|`ECCV`|[Grounding Image Matching in 3D with MASt3R](https://arxiv.org/pdf/2406.09756)|[![Github stars](https://img.shields.io/github/stars/naver/mast3r.svg)](https://github.com/naver/mast3r)| [Website](https://europe.naverlabs.com/blog/mast3r-matching-and-stereo-3d-reconstruction/) <br> [Test](https://kwanwaipang.github.io/File/Blogs/Poster/MASt3R-SLAM.html)
 |2022|`ICARM`|[Tlcd: A transformer based loop closure detection for robotic visual slam](https://howardli0816.github.io/files/TLCD_A_Transformer_based_Loop_Closure_Detection_for_Robotic_Visual_SLAM.pdf)|---|---|
+|2021|`CVPR`|[LoFTR: Detector-free local feature matching with transformers](https://openaccess.thecvf.com/content/CVPR2021/papers/Sun_LoFTR_Detector-Free_Local_Feature_Matching_With_Transformers_CVPR_2021_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/zju3dv/LoFTR.svg)](https://github.com/zju3dv/LoFTR)|---|
 
 
 ## Transformer-based Mapping
