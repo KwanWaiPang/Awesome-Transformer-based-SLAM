@@ -39,6 +39,7 @@ Full SLAM, including pose and depth
 
 ## Transformer-based Pose Tracking
 
+or pose/state estimation
 <!-- |---|`arXiv`|---|---|---| -->
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 
