@@ -10,7 +10,7 @@ If you find some ignored papers, **feel free to [*create pull requests*](https:/
 
 Contributions in any form to make this list more comprehensive are welcome.
 
-If you find this repositorie is useful, a simple star should be the best affirmation. 😊
+If you find this repositorie is useful, a simple star [![Github stars](https://img.shields.io/github/stars/KwanWaiPang/Awesome-Transformer-based-SLAM.svg)](https://github.com/KwanWaiPang/Awesome-Transformer-based-SLAM) should be the best affirmation. 😊
 
 Feel free to share this list with others!
 
