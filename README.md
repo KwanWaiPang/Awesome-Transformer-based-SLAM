@@ -10,12 +10,7 @@ If you find some ignored papers, **feel free to [*create pull requests*](https:/
 
 Contributions in any form to make this list more comprehensive are welcome.
 
-If you find this repositorie is useful, a simple star (<a class="github-button" 
-  href="https://github.com/KwanWaiPang/Awesome-Transformer-based-SLAM" 
-  data-icon="octicon-star" 
-  data-size="large"
-  data-show-count="true" 
-  aria-label="Star it on GitHub">Star on Github</a>) should be the best affirmation. 😊
+If you find this repositorie is useful, a simple star ([![Github stars](https://img.shields.io/github/stars/KwanWaiPang/Awesome-Transformer-based-SLAM.svg)](https://github.com/KwanWaiPang/Awesome-Transformer-based-SLAM)) should be the best affirmation. 😊
 
 Feel free to share this list with others!
 
