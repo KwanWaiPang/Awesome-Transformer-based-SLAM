@@ -114,6 +114,7 @@ or depth estimation or 3D reconstruction
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[SplatVoxel: History-Aware Novel View Streaming without Temporal Training](https://arxiv.org/pdf/2503.14698)|---|---|
 |2025|`CVPR`|[GaussTR: Foundation Model-Aligned Gaussian Transformer for Self-Supervised 3D Spatial Understanding](https://arxiv.org/pdf/2412.13193)|[![Github stars](https://img.shields.io/github/stars/hustvl/GaussTR.svg)](https://github.com/hustvl/GaussTR)|3DGS+Transformer|
 |2025|`CVPR`|[DUNE: Distilling a Universal Encoder from Heterogeneous 2D and 3D Teachers](https://arxiv.org/pdf/2503.14405)|[![Github stars](https://img.shields.io/github/stars/naver/dune.svg)](https://github.com/naver/dune)|[website](https://europe.naverlabs.com/research/publications/dune/)<br>distillation|
 |2025|`arXiv`|[MUSt3R: Multi-view Network for Stereo 3D Reconstruction](https://arxiv.org/pdf/2503.01661)|[![Github stars](https://img.shields.io/github/stars/naver/must3r.svg)](https://github.com/naver/must3r)|multiple views DUSt3R|
