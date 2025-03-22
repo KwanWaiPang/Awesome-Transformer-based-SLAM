@@ -115,6 +115,7 @@ or depth estimation or 3D reconstruction
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
 |2025|`arXiv`|[Dynamic Point Maps: A Versatile Representation for Dynamic 3D Reconstruction](https://arxiv.org/pdf/2503.16318)|---|[website](https://www.robots.ox.ac.uk/%CB%9Cvgg/research/dynamic-pointmaps/) <br> Dynamic DUSt3R|
+|2025|`ICLR`|[MonST3R: A Simple Approach for Estimating Geometry in the Presence of Motion](https://arxiv.org/pdf/2410.03825)|[![Github stars](https://img.shields.io/github/stars/Junyi42/monst3r.svg)](https://github.com/Junyi42/monst3r)|[website](https://monst3r-project.github.io/)|
 |2025|`arXiv`|[SplatVoxel: History-Aware Novel View Streaming without Temporal Training](https://arxiv.org/pdf/2503.14698)|---|---|
 |2025|`CVPR`|[GaussTR: Foundation Model-Aligned Gaussian Transformer for Self-Supervised 3D Spatial Understanding](https://arxiv.org/pdf/2412.13193)|[![Github stars](https://img.shields.io/github/stars/hustvl/GaussTR.svg)](https://github.com/hustvl/GaussTR)|3DGS+Transformer|
 |2025|`CVPR`|[DUNE: Distilling a Universal Encoder from Heterogeneous 2D and 3D Teachers](https://arxiv.org/pdf/2503.14405)|[![Github stars](https://img.shields.io/github/stars/naver/dune.svg)](https://github.com/naver/dune)|[website](https://europe.naverlabs.com/research/publications/dune/)<br>distillation|
