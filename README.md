@@ -47,6 +47,7 @@ or pose/state estimation
 |:----:|:-----:| ----------- |:----------:|:----:|
 |2025|`arXiv`|[XIRVIO: Critic-guided Iterative Refinement for Visual-Inertial Odometry with Explainable Adaptive Weighting](https://arxiv.org/pdf/2503.00315)|---|---|
 |2025|`IEEE Acess`|[Transformer-based model for monocular visual odometry: a video understanding approach](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10845764)|[![Github stars](https://img.shields.io/github/stars/aofrancani/TSformer-VO.svg)](https://github.com/aofrancani/TSformer-VO)|---|
+|2025|`arXiv`|[Light3R-SfM: Towards Feed-forward Structure-from-Motion](https://arxiv.org/pdf/2501.14914)|---|---|
 |2024|`arXiv`|[MASt3R-SfM: a Fully-Integrated Solution for Unconstrained Structure-from-Motion](https://arxiv.org/pdf/2409.19152)|[![Github stars](https://img.shields.io/github/stars/naver/mast3r.svg)](https://github.com/naver/mast3r/tree/mast3r_sfm)|MASt3R sfm version|
 |2024|`CVPR`|[VGGSfM: Visual Geometry Grounded Deep Structure From Motion](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_VGGSfM_Visual_Geometry_Grounded_Deep_Structure_From_Motion_CVPR_2024_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/facebookresearch/vggsfm.svg)](https://github.com/facebookresearch/vggsfm)|[website](https://vggsfm.github.io/)|
 |2024|Msc Thesis|[End-to-End Learned Visual Odometry Based on Vision Transformer](https://www.utupub.fi/bitstream/handle/10024/178848/Aman_Manishbhai_Vyas_Thesis.pdf?sequence=1)|---|---|
