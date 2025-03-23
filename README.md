@@ -95,6 +95,7 @@ or Data Assoication, Correspondences
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[Loop Closure from Two Views: Revisiting PGO for Scalable Trajectory Estimation through Monocular Priors](https://arxiv.org/pdf/2503.16275)|---| MASt3R for Loop Closure|
 |2025|`arXiv`|[Speedy MASt3R](https://arxiv.org/pdf/2503.10017)|---|---|
 |2025|`CVPR`|[VGGT: Visual Geometry Grounded Transformer](https://arxiv.org/pdf/2503.11651)|[![Github stars](https://img.shields.io/github/stars/facebookresearch/vggt.svg)](https://github.com/facebookresearch/vggt)|[website](https://vgg-t.github.io/)<br>[Test](https://kwanwaipang.github.io/VGGT/)|
 |2024|`ECCV`|[Grounding Image Matching in 3D with MASt3R](https://arxiv.org/pdf/2406.09756)|[![Github stars](https://img.shields.io/github/stars/naver/mast3r.svg)](https://github.com/naver/mast3r)| [Website](https://europe.naverlabs.com/blog/mast3r-matching-and-stereo-3d-reconstruction/) <br> [Test](https://kwanwaipang.github.io/File/Blogs/Poster/MASt3R-SLAM.html)
