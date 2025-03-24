@@ -116,6 +116,10 @@ or depth estimation or 3D reconstruction
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`CVPR`|[Sonata: Self-Supervised Learning of Reliable Point Representations](https://arxiv.org/pdf/2503.16429)|[![Github stars](https://img.shields.io/github/stars/facebookresearch/sonata.svg)](https://github.com/facebookresearch/sonata)|[website](https://xywu.me/sonata/)|
+|2024|`CVPR`|[Point transformer v3: Simpler faster stronger](https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_Point_Transformer_V3_Simpler_Faster_Stronger_CVPR_2024_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/Pointcept/PointTransformerV3.svg)](https://github.com/Pointcept/PointTransformerV3)|---|
+|2022|`NIPS`|[Point transformer v2: Grouped vector attention and partition-based pooling](https://proceedings.neurips.cc/paper_files/paper/2022/file/d78ece6613953f46501b958b7bb4582f-Paper-Conference.pdf)|[![Github stars](https://img.shields.io/github/stars/Pointcept/PointTransformerV2.svg)](https://github.com/Pointcept/PointTransformerV2) |---| 
+|2021|`ICCV`|[Point transformer](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_Point_Transformer_ICCV_2021_paper.pdf)|---|---|
 |2025|`arXiv`|[Dynamic Point Maps: A Versatile Representation for Dynamic 3D Reconstruction](https://arxiv.org/pdf/2503.16318)|---|[website](https://www.robots.ox.ac.uk/%CB%9Cvgg/research/dynamic-pointmaps/) <br> Dynamic DUSt3R, DPM|
 |2025|`ICLR`|[MonST3R: A Simple Approach for Estimating Geometry in the Presence of Motion](https://arxiv.org/pdf/2410.03825)|[![Github stars](https://img.shields.io/github/stars/Junyi42/monst3r.svg)](https://github.com/Junyi42/monst3r)|[website](https://monst3r-project.github.io/)<br>[Test](https://kwanwaipang.github.io/MonST3R/)|
 |2025|`CVPR`|[Stereo4D: Learning How Things Move in 3D from Internet Stereo Videos](https://arxiv.org/pdf/2412.09621)|[![Github stars](https://img.shields.io/github/stars/Stereo4d/stereo4d-code.svg)](https://github.com/Stereo4d/stereo4d-code)|[website](https://stereo4d.github.io/)|
