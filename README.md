@@ -119,7 +119,7 @@ or depth estimation or 3D reconstruction
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
 |2025|`ICLR`|[M3: 3D-Spatial Multimodal Memory](https://arxiv.org/pdf/2503.16413)|[![Github stars](https://img.shields.io/github/stars/MaureenZOU/m3-spatial.svg)](https://github.com/MaureenZOU/m3-spatial)|[website](https://m3-spatial-memory.github.io/)<br>compression & Gaussian Memory Attention|
-|2025|`CVPR`|[Pow3R: empowering unconstrained 3D reconstruction with camera and scene priors](https://arxiv.org/pdf/2503.17316)|---|[website](https://europe.naverlabs.com/pow3r)|
+|2025|`CVPR`|[Pow3R: empowering unconstrained 3D reconstruction with camera and scene priors](https://arxiv.org/pdf/2503.17316)|---|[website](https://europe.naverlabs.com/pow3r)<br>DUSt3R+multi information input|
 |2025|`CVPR`|[UniK3D: Universal Camera Monocular 3D Estimation](https://arxiv.org/pdf/2503.16591)|[![Github stars](https://img.shields.io/github/stars/lpiccinelli-eth/unik3d.svg)](https://github.com/lpiccinelli-eth/unik3d)|[website](https://lpiccinelli-eth.github.io/pub/unik3d/)|
 |2025|`CVPR`|[Sonata: Self-Supervised Learning of Reliable Point Representations](https://arxiv.org/pdf/2503.16429)|[![Github stars](https://img.shields.io/github/stars/facebookresearch/sonata.svg)](https://github.com/facebookresearch/sonata)|[website](https://xywu.me/sonata/)|
 |2024|`CVPR`|[Point transformer v3: Simpler faster stronger](https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_Point_Transformer_V3_Simpler_Faster_Stronger_CVPR_2024_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/Pointcept/PointTransformerV3.svg)](https://github.com/Pointcept/PointTransformerV3)|---|
