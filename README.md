@@ -96,6 +96,7 @@ or Data Assoication, Correspondences
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[ColabSfM: Collaborative Structure-from-Motion by Point Cloud Registration](https://arxiv.org/pdf/2503.17093)|[![Github stars](https://img.shields.io/github/stars/EricssonResearch/ColabSfM.svg)](https://github.com/EricssonResearch/ColabSfM)|---|
 |2025|`arXiv`|[Loop Closure from Two Views: Revisiting PGO for Scalable Trajectory Estimation through Monocular Priors](https://arxiv.org/pdf/2503.16275)|---| MASt3R for Loop Closure|
 |2025|`arXiv`|[Speedy MASt3R](https://arxiv.org/pdf/2503.10017)|---|---|
 |2025|`CVPR`|[VGGT: Visual Geometry Grounded Transformer](https://arxiv.org/pdf/2503.11651)|[![Github stars](https://img.shields.io/github/stars/facebookresearch/vggt.svg)](https://github.com/facebookresearch/vggt)|[website](https://vgg-t.github.io/)<br>[Test](https://kwanwaipang.github.io/VGGT/)|
