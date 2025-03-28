@@ -119,7 +119,7 @@ or depth estimation or 3D reconstruction
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
-|2025|`arXiv`|[SparseGS-W: Sparse-View 3D Gaussian Splatting in the Wild with Generative Priors](https://arxiv.org/pdf/2503.19452)|---|DUSt3R+3DGS|
+|2025|`arXiv`|[SparseGS-W: Sparse-View 3D Gaussian Splatting in the Wild with Generative Priors](https://arxiv.org/pdf/2503.19452)|---|DUSt3R+Diffusion+3DGS|
 |2025|`ICLR`|[M3: 3D-Spatial Multimodal Memory](https://arxiv.org/pdf/2503.16413)|[![Github stars](https://img.shields.io/github/stars/MaureenZOU/m3-spatial.svg)](https://github.com/MaureenZOU/m3-spatial)|[website](https://m3-spatial-memory.github.io/)<br>compression & Gaussian Memory Attention|
 |2025|`CVPR`|[Pow3R: empowering unconstrained 3D reconstruction with camera and scene priors](https://arxiv.org/pdf/2503.17316)|---|[website](https://europe.naverlabs.com/pow3r)<br>DUSt3R+multi information input|
 |2025|`CVPR`|[Text-guided Sparse Voxel Pruning for Efficient 3D Visual Grounding](https://arxiv.org/pdf/2502.10392?)| [![Github stars](https://img.shields.io/github/stars/GWxuan/TSP3D.svg)](https://github.com/GWxuan/TSP3D)|TSP3D|
