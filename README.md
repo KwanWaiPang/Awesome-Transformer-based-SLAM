@@ -97,6 +97,7 @@ or Data Assoication, Correspondences
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[CoMatch: Dynamic Covisibility-Aware Transformer for Bilateral Subpixel-Level Semi-Dense Image Matching](https://arxiv.org/pdf/2503.23925)|---|---|
 |2025|`CVPR`|[Tracktention: Leveraging Point Tracking to Attend Videos Faster and Better](https://arxiv.org/pdf/2503.19904)|[![Github stars](https://img.shields.io/github/stars/zlai0/TrackTention.svg)](https://github.com/zlai0/TrackTention)|[website](https://zlai0.github.io/TrackTention/)|
 |2025|`CVPR`|[FG2:Fine-Grained Cross-View Localization by Fine-Grained Feature Matching](https://arxiv.org/pdf/2503.18725)|[![Github stars](https://img.shields.io/github/stars/vita-epfl/FG2.svg)](https://github.com/vita-epfl/FG2)|---|
 |2025|`arXiv`|[ColabSfM: Collaborative Structure-from-Motion by Point Cloud Registration](https://arxiv.org/pdf/2503.17093)|[![Github stars](https://img.shields.io/github/stars/EricssonResearch/ColabSfM.svg)](https://github.com/EricssonResearch/ColabSfM)|---|
