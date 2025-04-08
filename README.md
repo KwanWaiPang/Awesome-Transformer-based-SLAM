@@ -123,6 +123,7 @@ or depth estimation or 3D reconstruction
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[FlowR: Flowing from Sparse to Dense 3D Reconstructions](https://arxiv.org/pdf/2504.01647)|---|[website](https://tobiasfshr.github.io/pub/flowr/)| 
 |2025|`arXiv`|[Easi3R: Estimating Disentangled Motion from DUSt3R Without Training](https://arxiv.org/pdf/2503.24391)|[![Github stars](https://img.shields.io/github/stars/Inception3D/Easi3R.svg)](https://github.com/Inception3D/Easi3R)|[website](https://easi3r.github.io/)<br>4D DUSt3R|
 |2025|`arXiv`|[SparseGS-W: Sparse-View 3D Gaussian Splatting in the Wild with Generative Priors](https://arxiv.org/pdf/2503.19452)|---|DUSt3R+Diffusion+3DGS|
 |2025|`ICLR`|[M3: 3D-Spatial Multimodal Memory](https://arxiv.org/pdf/2503.16413)|[![Github stars](https://img.shields.io/github/stars/MaureenZOU/m3-spatial.svg)](https://github.com/MaureenZOU/m3-spatial)|[website](https://m3-spatial-memory.github.io/)<br>compression & Gaussian Memory Attention|
