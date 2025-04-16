@@ -98,6 +98,7 @@ or Data Assoication, Correspondences
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`CVPR`|[DEFOM-Stereo: Depth Foundation Model Based Stereo Matching](https://arxiv.org/pdf/2501.09466)|[![Github stars](https://img.shields.io/github/stars/Insta360-Research-Team/DEFOM-Stereo.svg)](https://github.com/Insta360-Research-Team/DEFOM-Stereo)|[website](https://insta360-research-team.github.io/DEFOM-Stereo/)<br>depth anything v2 + RAFT-Stereo|
 |2025|`arXiv`|[MatchAnything: Universal Cross-Modality Image Matching with Large-Scale Pre-Training](https://arxiv.org/pdf/2501.07556?)|[![Github stars](https://img.shields.io/github/stars/zju3dv/MatchAnything.svg)](https://github.com/zju3dv/MatchAnything)|[website](https://zju3dv.github.io/MatchAnything/)|
 |2025|`arXiv`|[POMATO: Marrying Pointmap Matching with Temporal Motions for Dynamic 3D Reconstruction](https://arxiv.org/pdf/2504.05692)|[![Github stars](https://img.shields.io/github/stars/wyddmw/POMATO.svg)](https://github.com/wyddmw/POMATO)|---| 
 |2025|`arXiv`|[CoMatcher: Multi-View Collaborative Feature Matching](https://arxiv.org/pdf/2504.01872)|---|---|
