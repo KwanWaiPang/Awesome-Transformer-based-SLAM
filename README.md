@@ -128,6 +128,7 @@ or depth estimation or 3D reconstruction
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[Mono3R: Exploiting Monocular Cues for Geometric 3D Reconstruction](https://arxiv.org/pdf/2504.13419)|---|---|
 |2025|`CVPR`|[MonSter: Marry Monodepth to Stereo Unleashes Power](https://arxiv.org/pdf/2501.08643)|[![Github stars](https://img.shields.io/github/stars/Junda24/MonSter.svg)](https://github.com/Junda24/MonSter)|---|
 |2025|`arXiv`|[D2USt3R: Enhancing 3D Reconstruction with 4D Pointmaps for Dynamic Scenes](https://arxiv.org/pdf/2504.06264)|---|[website](https://cvlab-kaist.github.io/DDUSt3R/)|
 |2025|`arXiv`|[FlowR: Flowing from Sparse to Dense 3D Reconstructions](https://arxiv.org/pdf/2504.01647)|---|[website](https://tobiasfshr.github.io/pub/flowr/)| 
