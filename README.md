@@ -129,6 +129,7 @@ or depth estimation or 3D reconstruction
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`CVPR`|[MV-DUSt3R+: Single-Stage Scene Reconstruction from Sparse Views In 2 Seconds](https://arxiv.org/pdf/2412.06974)|[![Github stars](https://img.shields.io/github/stars/facebookresearch/mvdust3r.svg)](https://github.com/facebookresearch/mvdust3r)|[website](https://mv-dust3rp.github.io/)|
 |2025|`CVPR`|[MoGe: Unlocking Accurate Monocular Geometry Estimation for Open-Domain Images with Optimal Training Supervision](https://arxiv.org/pdf/2410.19115)|[![Github stars](https://img.shields.io/github/stars/microsoft/moge.svg)](https://github.com/microsoft/moge)|[website](https://wangrc.site/MoGePage/)| 
 |2025|`arXiv`|[Regist3R: Incremental Registration with Stereo Foundation Model](https://arxiv.org/pdf/2504.12356)|---|---|
 |2025|`arXiv`|[St4RTrack: Simultaneous 4D Reconstruction and Tracking in the World](https://arxiv.org/pdf/2504.13152)|---|[website](https://st4rtrack.github.io/)|
