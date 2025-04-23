@@ -128,6 +128,7 @@ or depth estimation or 3D reconstruction
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[St4RTrack: Simultaneous 4D Reconstruction and Tracking in the World](https://arxiv.org/pdf/2504.13152)|---|[website](https://st4rtrack.github.io/)|
 |2025|`CVPR`|[AerialMegaDepth: Learning Aerial-Ground Reconstruction and View Synthesis](https://arxiv.org/pdf/2504.13157)|[![Github stars](https://img.shields.io/github/stars/kvuong2711/aerial-megadepth.svg)](https://github.com/kvuong2711/aerial-megadepth)|[website](https://aerial-megadepth.github.io/)|
 |2025|`arXiv`|[Mono3R: Exploiting Monocular Cues for Geometric 3D Reconstruction](https://arxiv.org/pdf/2504.13419)|---|---|
 |2025|`CVPR`|[MonSter: Marry Monodepth to Stereo Unleashes Power](https://arxiv.org/pdf/2501.08643)|[![Github stars](https://img.shields.io/github/stars/Junda24/MonSter.svg)](https://github.com/Junda24/MonSter)|---|
