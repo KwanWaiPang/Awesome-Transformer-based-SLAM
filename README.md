@@ -32,7 +32,6 @@ Full SLAM, including pose and depth
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
-|2025|`arXiv`|[Regist3R: Incremental Registration with Stereo Foundation Model](https://arxiv.org/pdf/2504.12356)|---|---|
 |2025|`arXiv`|[3R-GS: Best Practice in Optimizing Camera Poses Along with 3DGS](https://arxiv.org/pdf/2504.04294)|---|[website](https://zsh523.github.io/3R-GS/)<br>MASt3R-SfM+3DGS| 
 |2025|`CVPR`|[AnyCam: Learning to Recover Camera Poses and Intrinsics from Casual Videos](https://arxiv.org/pdf/2503.23282)| [![Github stars](https://img.shields.io/github/stars/Brummi/anycam.svg)](https://github.com/Brummi/anycam)|[website](https://fwmb.github.io/anycam/)|
 |2025|`CVPR`|[SLAM3R: Real-Time Dense Scene Reconstruction from Monocular RGB Videos](https://arxiv.org/pdf/2412.09401)|[![Github stars](https://img.shields.io/github/stars/PKU-VCL-3DV/SLAM3R.svg)](https://github.com/PKU-VCL-3DV/SLAM3R)|[test](https://kwanwaipang.github.io/SLAM3R/)|
@@ -129,6 +128,7 @@ or depth estimation or 3D reconstruction
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[Regist3R: Incremental Registration with Stereo Foundation Model](https://arxiv.org/pdf/2504.12356)|---|---|
 |2025|`arXiv`|[St4RTrack: Simultaneous 4D Reconstruction and Tracking in the World](https://arxiv.org/pdf/2504.13152)|---|[website](https://st4rtrack.github.io/)|
 |2025|`CVPR`|[AerialMegaDepth: Learning Aerial-Ground Reconstruction and View Synthesis](https://arxiv.org/pdf/2504.13157)|[![Github stars](https://img.shields.io/github/stars/kvuong2711/aerial-megadepth.svg)](https://github.com/kvuong2711/aerial-megadepth)|[website](https://aerial-megadepth.github.io/)|
 |2025|`arXiv`|[Mono3R: Exploiting Monocular Cues for Geometric 3D Reconstruction](https://arxiv.org/pdf/2504.13419)|---|---|
