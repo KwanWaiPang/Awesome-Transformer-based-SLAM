@@ -32,6 +32,7 @@ Full SLAM, including pose and depth
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[VGGT-SLAM: Dense RGB SLAM Optimized on the SL(4) Manifold](https://arxiv.org/pdf/2505.12549)|---|---| 
 |2025|`arXiv`|[3R-GS: Best Practice in Optimizing Camera Poses Along with 3DGS](https://arxiv.org/pdf/2504.04294)|---|[website](https://zsh523.github.io/3R-GS/)<br>MASt3R-SfM+3DGS| 
 |2025|`CVPR`|[AnyCam: Learning to Recover Camera Poses and Intrinsics from Casual Videos](https://arxiv.org/pdf/2503.23282)| [![Github stars](https://img.shields.io/github/stars/Brummi/anycam.svg)](https://github.com/Brummi/anycam)|[website](https://fwmb.github.io/anycam/)|
 |2025|`CVPR`|[SLAM3R: Real-Time Dense Scene Reconstruction from Monocular RGB Videos](https://arxiv.org/pdf/2412.09401)|[![Github stars](https://img.shields.io/github/stars/PKU-VCL-3DV/SLAM3R.svg)](https://github.com/PKU-VCL-3DV/SLAM3R)|[test](https://kwanwaipang.github.io/SLAM3R/)|
