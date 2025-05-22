@@ -131,6 +131,7 @@ or depth estimation or 3D reconstruction
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[Recollection from Pensieve: Novel View Synthesis via Learning from Uncalibrated Videos](https://arxiv.org/pdf/2505.13440)|[![Github stars](https://img.shields.io/github/stars/Dwawayu/Pensieve.svg)](https://github.com/Dwawayu/Pensieve)|---|
 |2025|`arXiv`|[STORM: Spatio-Temporal Reconstruction Model for Large-Scale Outdoor Scenes](https://arxiv.org/pdf/2501.00602)| [![Github stars](https://img.shields.io/github/stars/NVlabs/GaussianSTORM.svg)](https://github.com/NVlabs/GaussianSTORM)|[website](https://jiawei-yang.github.io/STORM/)|
 |2025|`CVPRW`|[DELTA: Dense Depth from Events and LiDAR using Transformer's Attention](https://arxiv.org/pdf/2505.02593)|[![Github stars](https://img.shields.io/github/stars/heudiasyc/DELTA.svg)](https://github.com/heudiasyc/DELTA)|[website](https://vbrebion.github.io/DELTA/)| 
 |2025|`CVPR`|[MV-DUSt3R+: Single-Stage Scene Reconstruction from Sparse Views In 2 Seconds](https://arxiv.org/pdf/2412.06974)|[![Github stars](https://img.shields.io/github/stars/facebookresearch/mvdust3r.svg)](https://github.com/facebookresearch/mvdust3r)|[website](https://mv-dust3rp.github.io/)|
