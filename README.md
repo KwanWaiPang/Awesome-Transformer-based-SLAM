@@ -131,6 +131,7 @@ or depth estimation or 3D reconstruction
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[Styl3R: Instant 3D Stylized Reconstruction for Arbitrary Scenes and Styles](https://arxiv.org/pdf/2505.21060)|[![Github stars](https://img.shields.io/github/stars/WU-CVGL/Styl3R.svg)](https://github.com/WU-CVGL/Styl3R)|[website](https://nickisdope.github.io/Styl3R/)|
 |2025|`CVPR`|[MonoSplat: Generalizable 3D Gaussian Splatting from Monocular Depth Foundation Models](https://arxiv.org/pdf/2505.15185)|[![Github stars](https://img.shields.io/github/stars/CUHK-AIM-Group/MonoSplat.svg)](https://github.com/CUHK-AIM-Group/MonoSplat)|---|
 |2025|`arXiv`|[Recollection from Pensieve: Novel View Synthesis via Learning from Uncalibrated Videos](https://arxiv.org/pdf/2505.13440)|[![Github stars](https://img.shields.io/github/stars/Dwawayu/Pensieve.svg)](https://github.com/Dwawayu/Pensieve)|---|
 |2025|`arXiv`|[STORM: Spatio-Temporal Reconstruction Model for Large-Scale Outdoor Scenes](https://arxiv.org/pdf/2501.00602)| [![Github stars](https://img.shields.io/github/stars/NVlabs/GaussianSTORM.svg)](https://github.com/NVlabs/GaussianSTORM)|[website](https://jiawei-yang.github.io/STORM/)|
