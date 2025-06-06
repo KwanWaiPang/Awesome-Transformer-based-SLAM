@@ -48,7 +48,7 @@ or pose/state estimation
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
-|2025|`CVPR`|[ZeroVO: Visual Odometry with Minimal Assumptions](https://openaccess.thecvf.com/content/CVPR2025/papers/Lai_ZeroVO_Visual_Odometry_with_Minimal_Assumptions_CVPR_2025_paper.pdf)|---|---|
+|2025|`CVPR`|[ZeroVO: Visual Odometry with Minimal Assumptions](https://openaccess.thecvf.com/content/CVPR2025/papers/Lai_ZeroVO_Visual_Odometry_with_Minimal_Assumptions_CVPR_2025_paper.pdf)|---|[website](https://zvocvpr.github.io/)|
 |2025|`arXiv`|[XIRVIO: Critic-guided Iterative Refinement for Visual-Inertial Odometry with Explainable Adaptive Weighting](https://arxiv.org/pdf/2503.00315)|---|---|
 |2025|`IEEE Acess`|[Transformer-based model for monocular visual odometry: a video understanding approach](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10845764)|[![Github stars](https://img.shields.io/github/stars/aofrancani/TSformer-VO.svg)](https://github.com/aofrancani/TSformer-VO)|---|
 |2025|`arXiv`|[Light3R-SfM: Towards Feed-forward Structure-from-Motion](https://arxiv.org/pdf/2501.14914)|---|---|
