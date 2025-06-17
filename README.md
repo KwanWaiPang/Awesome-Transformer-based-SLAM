@@ -133,6 +133,7 @@ or depth estimation or 3D reconstruction
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[4DGT: Learning a 4D Gaussian Transformer Using Real-World Monocular Videos](https://arxiv.org/pdf/2506.08015)|---|[website](https://4dgt.github.io/)|
 |2025|`arXiv`|[Rig3R: Rig-Aware Conditioning for Learned 3D Reconstruction](https://arxiv.org/pdf/2506.02265)|---|---|
 |2025|`CVPR`|[SAB3R: Semantic-Augmented Backbone in 3D Reconstruction](https://arxiv.org/pdf/2506.02112)|---|[website](https://uva-computer-vision-lab.github.io/sab3r/)|
 |2025|`arXiv`|[Styl3R: Instant 3D Stylized Reconstruction for Arbitrary Scenes and Styles](https://arxiv.org/pdf/2505.21060)|[![Github stars](https://img.shields.io/github/stars/WU-CVGL/Styl3R.svg)](https://github.com/WU-CVGL/Styl3R)|[website](https://nickisdope.github.io/Styl3R/)|
