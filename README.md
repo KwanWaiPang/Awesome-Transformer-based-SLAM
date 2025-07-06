@@ -133,6 +133,7 @@ or depth estimation or 3D reconstruction
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[Point3R: Streaming 3D Reconstruction with Explicit Spatial Pointer Memory](https://arxiv.org/pdf/2507.02863)|[![Github stars](https://img.shields.io/github/stars/YkiWu/Point3R.svg)](https://github.com/YkiWu/Point3R)|[website](https://ykiwu.github.io/Point3R/)|
 |2025|`arXiv`|[4DGT: Learning a 4D Gaussian Transformer Using Real-World Monocular Videos](https://arxiv.org/pdf/2506.08015)|---|[website](https://4dgt.github.io/)|
 |2025|`arXiv`|[Rig3R: Rig-Aware Conditioning for Learned 3D Reconstruction](https://arxiv.org/pdf/2506.02265)|---|---|
 |2025|`CVPR`|[SAB3R: Semantic-Augmented Backbone in 3D Reconstruction](https://arxiv.org/pdf/2506.02112)|---|[website](https://uva-computer-vision-lab.github.io/sab3r/)|
