@@ -4,13 +4,13 @@
   </h1>
 </p>
 
-This repository contains a curated list of resources addressing SLAM related task employing Transformer, including optical flow, view/feature correspondences, stereo matching, depth estimation, 3D reconstruction, pose estimation, etc.
+This repository contains a curated list of resources addressing SLAM-related tasks employing Transformer, including optical flow, view/feature correspondences, stereo matching, depth estimation, 3D reconstruction, pose estimation, etc.
 
 If you find some ignored papers, **feel free to [*create pull requests*](https://github.com/KwanWaiPang/Awesome-Transformer-based-SLAM/blob/pdf/How-to-PR.md), or [*open issues*](https://github.com/KwanWaiPang/Awesome-Transformer-based-SLAM/issues/new)**. 
 
 Contributions in any form to make this list more comprehensive are welcome.
 
-If you find this repositorie is useful, a simple star ([![Github stars](https://img.shields.io/github/stars/KwanWaiPang/Awesome-Transformer-based-SLAM.svg)](https://github.com/KwanWaiPang/Awesome-Transformer-based-SLAM)) should be the best affirmation. 😊
+If you find this repository is useful, a simple star ([![Github stars](https://img.shields.io/github/stars/KwanWaiPang/Awesome-Transformer-based-SLAM.svg)](https://github.com/KwanWaiPang/Awesome-Transformer-based-SLAM)) should be the best affirmation. 😊
 
 Feel free to share this list with others!
 
@@ -48,6 +48,7 @@ or pose/state estimation
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`RAL`|[DINO-VO: A Feature-Based Visual Odometry Leveraging a Visual Foundation Model](https://arxiv.org/pdf/2507.13145)|---|---|
 |2025|`TRO`|[BotVIO: A Lightweight Transformer-Based Visual-Inertial Odometry for Robotics](https://ieeexplore.ieee.org/abstract/document/11024235)|[![Github stars](https://img.shields.io/github/stars/wenhuiwei-ustc/BotVIO.svg)](https://github.com/wenhuiwei-ustc/BotVIO)|---|
 |2025|`IROS`|[SplatPose: Geometry-Aware 6-DoF Pose Estimation from Single RGB Image via 3D Gaussian Splatting](https://arxiv.org/pdf/2503.05174?)|---|---|
 |2025|`CVPR`|[ZeroVO: Visual Odometry with Minimal Assumptions](https://openaccess.thecvf.com/content/CVPR2025/papers/Lai_ZeroVO_Visual_Odometry_with_Minimal_Assumptions_CVPR_2025_paper.pdf)|---|[website](https://zvocvpr.github.io/)|
