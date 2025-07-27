@@ -48,6 +48,7 @@ or pose/state estimation
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[Dense-depth map guided deep Lidar-Visual Odometry with Sparse Point Clouds and Images](https://arxiv.org/pdf/2507.15496)|---|---|
 |2025|`RAL`|[DINO-VO: A Feature-Based Visual Odometry Leveraging a Visual Foundation Model](https://arxiv.org/pdf/2507.13145)|---|---|
 |2025|`TRO`|[BotVIO: A Lightweight Transformer-Based Visual-Inertial Odometry for Robotics](https://ieeexplore.ieee.org/abstract/document/11024235)|[![Github stars](https://img.shields.io/github/stars/wenhuiwei-ustc/BotVIO.svg)](https://github.com/wenhuiwei-ustc/BotVIO)|---|
 |2025|`IROS`|[SplatPose: Geometry-Aware 6-DoF Pose Estimation from Single RGB Image via 3D Gaussian Splatting](https://arxiv.org/pdf/2503.05174?)|---|---|
