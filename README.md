@@ -32,6 +32,7 @@ Full SLAM, including pose and depth
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[DINO-SLAM: DINO-informed RGB-D SLAM for Neural Implicit and Explicit Representations](https://arxiv.org/pdf/2507.19474)|---|---|
 |2025|`arXiv`|[VGGT-SLAM: Dense RGB SLAM Optimized on the SL(4) Manifold](https://arxiv.org/pdf/2505.12549)|---|---| 
 |2025|`arXiv`|[3R-GS: Best Practice in Optimizing Camera Poses Along with 3DGS](https://arxiv.org/pdf/2504.04294)|---|[website](https://zsh523.github.io/3R-GS/)<br>MASt3R-SfM+3DGS| 
 |2025|`CVPR`|[AnyCam: Learning to Recover Camera Poses and Intrinsics from Casual Videos](https://arxiv.org/pdf/2503.23282)| [![Github stars](https://img.shields.io/github/stars/Brummi/anycam.svg)](https://github.com/Brummi/anycam)|[website](https://fwmb.github.io/anycam/)|
