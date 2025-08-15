@@ -140,6 +140,7 @@ or depth estimation or 3D reconstruction
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`ICCV`|[PanoSplatt3R: Leveraging Perspective Pretraining for Generalized Unposed Wide-Baseline Panorama Reconstruction](https://arxiv.org/pdf/2507.21960)|[![Github stars](https://img.shields.io/github/stars/zhichu99/PanoSplatt3R.svg)](https://github.com/zhichu99/PanoSplatt3R)|[website](https://npucvr.github.io/PanoSplatt3R/)| 
 |2025|`arXiv`|[Ov3R: Open-Vocabulary Semantic 3D Reconstruction from RGB Videos](https://arxiv.org/pdf/2507.22052)|---|---| 
 |2025|`ICCV`|[LONG3R: Long Sequence Streaming 3D Reconstruction](https://arxiv.org/pdf/2507.18255)|[![Github stars](https://img.shields.io/github/stars/zgchen33/LONG3R/.svg)](https://github.com/zgchen33/LONG3R/)|[website](https://zgchen33.github.io/LONG3R/)| 
 |2025|`arXiv`|[Dens3R: A Foundation Model for 3D Geometry Prediction](https://arxiv.org/pdf/2507.16290)|---|---|
