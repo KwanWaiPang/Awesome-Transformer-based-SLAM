@@ -140,6 +140,7 @@ or depth estimation or 3D reconstruction
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`ICCV`|[LONG3R: Long Sequence Streaming 3D Reconstruction](https://arxiv.org/pdf/2507.18255)|[![Github stars](https://img.shields.io/github/stars/zgchen33/LONG3R/.svg)](https://github.com/zgchen33/LONG3R/)|[website](https://zgchen33.github.io/LONG3R/)| 
 |2025|`arXiv`|[Dens3R: A Foundation Model for 3D Geometry Prediction](https://arxiv.org/pdf/2507.16290)|---|---|
 |2025|`arXiv`|[StreamVGGT: Streaming 4D Visual Geometry Transformer](https://arxiv.org/pdf/2507.11539)|[![Github stars](https://img.shields.io/github/stars/wzzheng/StreamVGGT.svg)](https://github.com/wzzheng/StreamVGGT)|[website](https://wzzheng.net/StreamVGGT/)|
 |2025|`arXiv`|[Test3R: Learning to Reconstruct 3D at Test Time](https://arxiv.org/pdf/2506.13750)|[![Github stars](https://img.shields.io/github/stars/nopQAQ/Test3R.svg)](https://github.com/nopQAQ/Test3R)|[website](https://test3r-nop.github.io/)|
