@@ -227,8 +227,12 @@ or depth estimation or 3D reconstruction
 * [Awesome-Learning-based-VO-VIO](https://github.com/KwanWaiPang/Awesome-Learning-based-VO-VIO)
 * Some basic paper in ViT:
 
+<!-- |---|`arXiv`|---|---|---| -->
+<!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
+
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[DINOV3](https://scontent-cdg4-2.xx.fbcdn.net/v/t39.2365-6/531524719_1692810264763997_2330122477414087224_n.pdf?_nc_cat=103&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=rWT0y-myJjoQ7kNvwExrM1a&_nc_oc=AdmEueP_BQT-RlStayE_OKexSwO_NAMEIbE0JGlbtgUivJ5YXxVR3KuqPzd1JlyrXFY&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=jLj8xdPxsbkJsOQT0kQ8Rw&oh=00_AfU8JD6wytBwsCvDU7Gvcf6B0mvhzff58grM9ZxUw0Vkkw&oe=68A4D0A8)|[![Github stars](https://img.shields.io/github/stars/facebookresearch/dinov3.svg)](https://github.com/facebookresearch/dinov3)|[website](https://ai.meta.com/dinov3/)|
 |2024|`Transactions on Machine Learning Research Journal`|[Dinov2: Learning robust visual features without supervision](https://arxiv.org/pdf/2304.07193)|[![Github stars](https://img.shields.io/github/stars/facebookresearch/dinov2.svg)](https://github.com/facebookresearch/dinov2)|DINO2|
 |2021|`ICML`|[Is space-time attention all you need for video understanding?](https://arxiv.org/pdf/2102.05095)|[![Github stars](https://img.shields.io/github/stars/facebookresearch/TimeSformer.svg)](https://github.com/facebookresearch/TimeSformer)|TimeSformer|
 |2021|`CVPR`|[Taming transformers for high-resolution image synthesis](https://openaccess.thecvf.com/content/CVPR2021/papers/Esser_Taming_Transformers_for_High-Resolution_Image_Synthesis_CVPR_2021_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/CompVis/taming-transformers.svg)](https://github.com/CompVis/taming-transformers)|High resolution CNN+Transformer|
