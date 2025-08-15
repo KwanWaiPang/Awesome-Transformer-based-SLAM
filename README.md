@@ -139,6 +139,7 @@ or depth estimation or 3D reconstruction
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[StreamVGGT: Streaming 4D Visual Geometry Transformer](https://arxiv.org/pdf/2507.11539)|[![Github stars](https://img.shields.io/github/stars/wzzheng/StreamVGGT.svg)](https://github.com/wzzheng/StreamVGGT)|[website](https://wzzheng.net/StreamVGGT/)|
 |2025|`arXiv`|[Test3R: Learning to Reconstruct 3D at Test Time](https://arxiv.org/pdf/2506.13750)|[![Github stars](https://img.shields.io/github/stars/nopQAQ/Test3R.svg)](https://github.com/nopQAQ/Test3R)|[website](https://test3r-nop.github.io/)|
 |2025|`arXiv`|[Point3R: Streaming 3D Reconstruction with Explicit Spatial Pointer Memory](https://arxiv.org/pdf/2507.02863)|[![Github stars](https://img.shields.io/github/stars/YkiWu/Point3R.svg)](https://github.com/YkiWu/Point3R)|[website](https://ykiwu.github.io/Point3R/)|
 |2025|`arXiv`|[4DGT: Learning a 4D Gaussian Transformer Using Real-World Monocular Videos](https://arxiv.org/pdf/2506.08015)|---|[website](https://4dgt.github.io/)|
