@@ -32,6 +32,7 @@ Full SLAM, including pose and depth
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[VGGT-Long: Chunk it, Loop it, Align it – Pushing VGGT’s Limits on Kilometer-scale Long RGB Sequences](https://arxiv.org/pdf/2507.16443)|[![Github stars](https://img.shields.io/github/stars/DengKaiCQ/VGGT-Long.svg)](https://github.com/DengKaiCQ/VGGT-Long)|---|
 |2025|`arXiv`|[DINO-SLAM: DINO-informed RGB-D SLAM for Neural Implicit and Explicit Representations](https://arxiv.org/pdf/2507.19474)|---|---|
 |2025|`arXiv`|[VGGT-SLAM: Dense RGB SLAM Optimized on the SL(4) Manifold](https://arxiv.org/pdf/2505.12549)|---|---| 
 |2025|`arXiv`|[3R-GS: Best Practice in Optimizing Camera Poses Along with 3DGS](https://arxiv.org/pdf/2504.04294)|---|[website](https://zsh523.github.io/3R-GS/)<br>MASt3R-SfM+3DGS| 
@@ -139,7 +140,6 @@ or depth estimation or 3D reconstruction
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
-|2025|`arXiv`|[VGGT-Long: Chunk it, Loop it, Align it – Pushing VGGT’s Limits on Kilometer-scale Long RGB Sequences](https://arxiv.org/pdf/2507.16443)|[![Github stars](https://img.shields.io/github/stars/DengKaiCQ/VGGT-Long.svg)](https://github.com/DengKaiCQ/VGGT-Long)|---|
 |2025|`arXiv`|[StreamVGGT: Streaming 4D Visual Geometry Transformer](https://arxiv.org/pdf/2507.11539)|[![Github stars](https://img.shields.io/github/stars/wzzheng/StreamVGGT.svg)](https://github.com/wzzheng/StreamVGGT)|[website](https://wzzheng.net/StreamVGGT/)|
 |2025|`arXiv`|[Test3R: Learning to Reconstruct 3D at Test Time](https://arxiv.org/pdf/2506.13750)|[![Github stars](https://img.shields.io/github/stars/nopQAQ/Test3R.svg)](https://github.com/nopQAQ/Test3R)|[website](https://test3r-nop.github.io/)|
 |2025|`arXiv`|[Point3R: Streaming 3D Reconstruction with Explicit Spatial Pointer Memory](https://arxiv.org/pdf/2507.02863)|[![Github stars](https://img.shields.io/github/stars/YkiWu/Point3R.svg)](https://github.com/YkiWu/Point3R)|[website](https://ykiwu.github.io/Point3R/)|
