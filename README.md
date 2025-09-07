@@ -32,6 +32,7 @@ Full SLAM, including pose and depth
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[ViSTA-SLAM: Visual SLAM with Symmetric Two-view Association](https://arxiv.org/pdf/2509.01584)|[![Github stars](https://img.shields.io/github/stars/zhangganlin/vista-slam.svg)](https://github.com/zhangganlin/vista-slam)|[website](https://ganlinzhang.xyz/vista-slam/)|
 |2025|`arXiv`|[VGGT-Long: Chunk it, Loop it, Align it – Pushing VGGT’s Limits on Kilometer-scale Long RGB Sequences](https://arxiv.org/pdf/2507.16443)|[![Github stars](https://img.shields.io/github/stars/DengKaiCQ/VGGT-Long.svg)](https://github.com/DengKaiCQ/VGGT-Long)|---|
 |2025|`arXiv`|[DINO-SLAM: DINO-informed RGB-D SLAM for Neural Implicit and Explicit Representations](https://arxiv.org/pdf/2507.19474)|---|---|
 |2025|`arXiv`|[VGGT-SLAM: Dense RGB SLAM Optimized on the SL(4) Manifold](https://arxiv.org/pdf/2505.12549)|---|---| 
