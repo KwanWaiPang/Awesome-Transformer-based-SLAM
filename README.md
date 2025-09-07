@@ -51,6 +51,7 @@ or pose/state estimation
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`CVPR`|[Reloc3r: Large-scale training of relative camera pose regression for generalizable, fast, and accurate visual localization](https://openaccess.thecvf.com/content/CVPR2025/papers/Dong_Reloc3r_Large-Scale_Training_of_Relative_Camera_Pose_Regression_for_Generalizable_CVPR_2025_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/ffrivera0/reloc3r.svg)](https://github.com/ffrivera0/reloc3r)|---|
 |2025|`arXiv`|[Dense-depth map guided deep Lidar-Visual Odometry with Sparse Point Clouds and Images](https://arxiv.org/pdf/2507.15496)|---|---|
 |2025|`RAL`|[DINO-VO: A Feature-Based Visual Odometry Leveraging a Visual Foundation Model](https://arxiv.org/pdf/2507.13145)|---|---|
 |2025|`TRO`|[BotVIO: A Lightweight Transformer-Based Visual-Inertial Odometry for Robotics](https://ieeexplore.ieee.org/abstract/document/11024235)|[![Github stars](https://img.shields.io/github/stars/wenhuiwei-ustc/BotVIO.svg)](https://github.com/wenhuiwei-ustc/BotVIO)|---|
