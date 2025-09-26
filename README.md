@@ -143,6 +143,7 @@ or depth estimation or 3D reconstruction
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[MapAnything: Universal Feed-Forward Metric 3D Reconstruction](https://arxiv.org/pdf/2509.13414)|[![Github stars](https://img.shields.io/github/stars/facebookresearch/map-anything.svg)](https://github.com/facebookresearch/map-anything)|[website](https://map-anything.github.io/)|
 |2025|`arXiv`|[POMATO: Marrying Pointmap Matching with Temporal Motions for Dynamic 3D Reconstruction](https://arxiv.org/pdf/2504.05692)|[![Github stars](https://img.shields.io/github/stars/wyddmw/POMATO.svg)](https://github.com/wyddmw/POMATO)|---|
 |2025|`ICCV`|[PanoSplatt3R: Leveraging Perspective Pretraining for Generalized Unposed Wide-Baseline Panorama Reconstruction](https://arxiv.org/pdf/2507.21960)|[![Github stars](https://img.shields.io/github/stars/zhichu99/PanoSplatt3R.svg)](https://github.com/zhichu99/PanoSplatt3R)|[website](https://npucvr.github.io/PanoSplatt3R/)| 
 |2025|`arXiv`|[Ov3R: Open-Vocabulary Semantic 3D Reconstruction from RGB Videos](https://arxiv.org/pdf/2507.22052)|---|---| 
