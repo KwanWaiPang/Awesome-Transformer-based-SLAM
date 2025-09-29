@@ -52,6 +52,7 @@ or pose/state estimation
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[MASt3R-Fusion: Integrating Feed-Forward Visual Model with IMU, GNSS for High-Functionality SLAM](https://arxiv.org/pdf/2509.20757)|[![Github stars](https://img.shields.io/github/stars/GREAT-WHU/MASt3R-Fusion.svg)](https://github.com/GREAT-WHU/MASt3R-Fusion)|---|
 |2025|`CVPR`|[Reloc3r: Large-scale training of relative camera pose regression for generalizable, fast, and accurate visual localization](https://openaccess.thecvf.com/content/CVPR2025/papers/Dong_Reloc3r_Large-Scale_Training_of_Relative_Camera_Pose_Regression_for_Generalizable_CVPR_2025_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/ffrivera0/reloc3r.svg)](https://github.com/ffrivera0/reloc3r)|---|
 |2025|`arXiv`|[Dense-depth map guided deep Lidar-Visual Odometry with Sparse Point Clouds and Images](https://arxiv.org/pdf/2507.15496)|---|---|
 |2025|`RAL`|[DINO-VO: A Feature-Based Visual Odometry Leveraging a Visual Foundation Model](https://arxiv.org/pdf/2507.13145)|---|---|
