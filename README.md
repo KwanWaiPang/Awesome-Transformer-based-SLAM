@@ -32,6 +32,7 @@ Full SLAM, including pose and depth
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[PROFusion: Robust and Accurate Dense Reconstruction via Camera Pose Regression and Optimization](https://arxiv.org/pdf/2509.24236)|[![Github stars](https://img.shields.io/github/stars/siyandong/PROFusion.svg)](https://github.com/siyandong/PROFusion)|---|
 |2025|`arXiv`|[SLAM-Former: Putting SLAM into One Transformer](https://www.arxiv.org/pdf/2509.16909)|[![Github stars](https://img.shields.io/github/stars/Tsinghua-MARS-Lab/SLAM-Former.svg)](https://github.com/Tsinghua-MARS-Lab/SLAM-Former)|[website](https://tsinghua-mars-lab.github.io/SLAM-Former/)|
 |2025|`arXiv`|[ViSTA-SLAM: Visual SLAM with Symmetric Two-view Association](https://arxiv.org/pdf/2509.01584)|[![Github stars](https://img.shields.io/github/stars/zhangganlin/vista-slam.svg)](https://github.com/zhangganlin/vista-slam)|[website](https://ganlinzhang.xyz/vista-slam/)|
 |2025|`arXiv`|[VGGT-Long: Chunk it, Loop it, Align it – Pushing VGGT’s Limits on Kilometer-scale Long RGB Sequences](https://arxiv.org/pdf/2507.16443)|[![Github stars](https://img.shields.io/github/stars/DengKaiCQ/VGGT-Long.svg)](https://github.com/DengKaiCQ/VGGT-Long)|---|
