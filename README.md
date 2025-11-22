@@ -32,6 +32,7 @@ Full SLAM, including pose and depth
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[SAIL-Recon: Large SfM by Augmenting Scene Regression with Localization](https://arxiv.org/pdf/2508.17972)|[![Github stars](https://img.shields.io/github/stars/HKUST-SAIL/sail-recon.svg)](https://github.com/HKUST-SAIL/sail-recon)|[website](https://hkust-sail.github.io/sail-recon/)|
 |2025|`arXiv`|[EC3R-SLAM: Efficient and Consistent Monocular Dense SLAM with Feed-Forward 3D Reconstruction](https://arxiv.org/pdf/2510.02080)|[![Github stars](https://img.shields.io/github/stars/hulxgit/EC3R-SLAM.svg)](https://github.com/hulxgit/EC3R-SLAM)|[Website](https://h0xg.github.io/ec3r/)|
 |2025|`arXiv`|[GRS-SLAM3R: Real-Time Dense SLAM with Gated Recurrent State](https://arxiv.org/pdf/2509.23737)|---|---|
 |2025|`arXiv`|[PROFusion: Robust and Accurate Dense Reconstruction via Camera Pose Regression and Optimization](https://arxiv.org/pdf/2509.24236)|[![Github stars](https://img.shields.io/github/stars/siyandong/PROFusion.svg)](https://github.com/siyandong/PROFusion)|---|
