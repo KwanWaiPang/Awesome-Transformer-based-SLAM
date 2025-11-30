@@ -32,6 +32,7 @@ Full SLAM, including pose and depth
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[AMB3R: Accurate Feed-forward Metric-scale 3D Reconstruction with Backend](https://arxiv.org/pdf/2511.20343)|[![Github stars](https://img.shields.io/github/stars/HengyiWang/amb3r.svg)](https://github.com/HengyiWang/amb3r)|[website](https://hengyiwang.github.io/projects/amber)|
 |2025|`arXiv`|[LiDAR-VGGT: Cross-Modal Coarse-to-Fine Fusion for Globally Consistent and Metric-Scale Dense Mapping](https://arxiv.org/pdf/2511.01186)|[![Github stars](https://img.shields.io/github/stars/NorwegianSmokedSalmon/Color-Map-Evaluation.svg)](https://github.com/NorwegianSmokedSalmon/Color-Map-Evaluation)|---|
 |2025|`arXiv`|[SAIL-Recon: Large SfM by Augmenting Scene Regression with Localization](https://arxiv.org/pdf/2508.17972)|[![Github stars](https://img.shields.io/github/stars/HKUST-SAIL/sail-recon.svg)](https://github.com/HKUST-SAIL/sail-recon)|[website](https://hkust-sail.github.io/sail-recon/)|
 |2025|`arXiv`|[EC3R-SLAM: Efficient and Consistent Monocular Dense SLAM with Feed-Forward 3D Reconstruction](https://arxiv.org/pdf/2510.02080)|[![Github stars](https://img.shields.io/github/stars/hulxgit/EC3R-SLAM.svg)](https://github.com/hulxgit/EC3R-SLAM)|[Website](https://h0xg.github.io/ec3r/)|
@@ -149,7 +150,6 @@ or depth estimation or 3D reconstruction
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
-|2025|`arXiv`|[AMB3R: Accurate Feed-forward Metric-scale 3D Reconstruction with Backend](https://arxiv.org/pdf/2511.20343)|[![Github stars](https://img.shields.io/github/stars/HengyiWang/amb3r.svg)](https://github.com/HengyiWang/amb3r)|[website](https://hengyiwang.github.io/projects/amber)|
 |2025|`arXiv`|[Human3R: Everyone Everywhere All at Once](https://arxiv.org/pdf/2510.06219?)|[![Github stars](https://img.shields.io/github/stars/fanegg/Human3R.svg)](https://github.com/fanegg/Human3R)|[website](https://fanegg.github.io/Human3R/)|
 |2025|`arXiv`|[MapAnything: Universal Feed-Forward Metric 3D Reconstruction](https://arxiv.org/pdf/2509.13414)|[![Github stars](https://img.shields.io/github/stars/facebookresearch/map-anything.svg)](https://github.com/facebookresearch/map-anything)|[website](https://map-anything.github.io/)|
 |2025|`arXiv`|[POMATO: Marrying Pointmap Matching with Temporal Motions for Dynamic 3D Reconstruction](https://arxiv.org/pdf/2504.05692)|[![Github stars](https://img.shields.io/github/stars/wyddmw/POMATO.svg)](https://github.com/wyddmw/POMATO)|---|
