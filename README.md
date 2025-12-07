@@ -32,6 +32,7 @@ Full SLAM, including pose and depth
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[SING3R-SLAM: Submap-based Indoor Monocular Gaussian SLAM with 3D Reconstruction Priors](https://arxiv.org/pdf/2511.17207)|---|---| 
 |2025|`arXiv`|[Multi-Agent Monocular Dense SLAM With 3D Reconstruction Priors](https://arxiv.org/pdf/2511.19031)|---|---|
 |2025|`arXiv`|[AMB3R: Accurate Feed-forward Metric-scale 3D Reconstruction with Backend](https://arxiv.org/pdf/2511.20343)|[![Github stars](https://img.shields.io/github/stars/HengyiWang/amb3r.svg)](https://github.com/HengyiWang/amb3r)|[website](https://hengyiwang.github.io/projects/amber)|
 |2025|`arXiv`|[LiDAR-VGGT: Cross-Modal Coarse-to-Fine Fusion for Globally Consistent and Metric-Scale Dense Mapping](https://arxiv.org/pdf/2511.01186)|[![Github stars](https://img.shields.io/github/stars/NorwegianSmokedSalmon/Color-Map-Evaluation.svg)](https://github.com/NorwegianSmokedSalmon/Color-Map-Evaluation)|---|
