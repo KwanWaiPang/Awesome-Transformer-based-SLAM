@@ -32,6 +32,7 @@ Full SLAM, including pose and depth
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[Building temporally coherent 3D maps with VGGT for memory-efficient Semantic SLAM](https://arxiv.org/pdf/2511.16282)|---|---| 
 |2025|`arXiv`|[SING3R-SLAM: Submap-based Indoor Monocular Gaussian SLAM with 3D Reconstruction Priors](https://arxiv.org/pdf/2511.17207)|---|---| 
 |2025|`arXiv`|[Multi-Agent Monocular Dense SLAM With 3D Reconstruction Priors](https://arxiv.org/pdf/2511.19031)|---|---|
 |2025|`arXiv`|[AMB3R: Accurate Feed-forward Metric-scale 3D Reconstruction with Backend](https://arxiv.org/pdf/2511.20343)|[![Github stars](https://img.shields.io/github/stars/HengyiWang/amb3r.svg)](https://github.com/HengyiWang/amb3r)|[website](https://hengyiwang.github.io/projects/amber)|
