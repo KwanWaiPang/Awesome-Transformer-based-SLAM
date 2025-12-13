@@ -153,6 +153,7 @@ or depth estimation or 3D reconstruction
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[OmniVGGT: Omni-Modality Driven Visual Geometry Grounded](https://arxiv.org/pdf/2511.10560)|[![Github stars](https://img.shields.io/github/stars/Livioni/OmniVGGT-official.svg)](https://github.com/Livioni/OmniVGGT-official)|[website](https://livioni.github.io/OmniVGGT-official/)|
 |2025|`arXiv`|[Human3R: Everyone Everywhere All at Once](https://arxiv.org/pdf/2510.06219?)|[![Github stars](https://img.shields.io/github/stars/fanegg/Human3R.svg)](https://github.com/fanegg/Human3R)|[website](https://fanegg.github.io/Human3R/)|
 |2025|`arXiv`|[MapAnything: Universal Feed-Forward Metric 3D Reconstruction](https://arxiv.org/pdf/2509.13414)|[![Github stars](https://img.shields.io/github/stars/facebookresearch/map-anything.svg)](https://github.com/facebookresearch/map-anything)|[website](https://map-anything.github.io/)|
 |2025|`arXiv`|[POMATO: Marrying Pointmap Matching with Temporal Motions for Dynamic 3D Reconstruction](https://arxiv.org/pdf/2504.05692)|[![Github stars](https://img.shields.io/github/stars/wyddmw/POMATO.svg)](https://github.com/wyddmw/POMATO)|---|
