@@ -153,6 +153,7 @@ or depth estimation or 3D reconstruction
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[HTTM: Head-wise Temporal Token Merging for Faster VGGT](https://arxiv.org/pdf/2511.21317)|---|---|
 |2025|`arXiv`|[VGGT4D: Mining Motion Cues in Visual Geometry Transformers for 4D Scene Reconstruction](https://arxiv.org/pdf/2511.19971)|[![Github stars](https://img.shields.io/github/stars/3DAgentWorld/VGGT4D.svg)](https://github.com/3DAgentWorld/VGGT4D)|[website](https://3dagentworld.github.io/vggt4d/)|
 |2025|`arXiv`|[OmniVGGT: Omni-Modality Driven Visual Geometry Grounded](https://arxiv.org/pdf/2511.10560)|[![Github stars](https://img.shields.io/github/stars/Livioni/OmniVGGT-official.svg)](https://github.com/Livioni/OmniVGGT-official)|[website](https://livioni.github.io/OmniVGGT-official/)|
 |2025|`arXiv`|[Human3R: Everyone Everywhere All at Once](https://arxiv.org/pdf/2510.06219?)|[![Github stars](https://img.shields.io/github/stars/fanegg/Human3R.svg)](https://github.com/fanegg/Human3R)|[website](https://fanegg.github.io/Human3R/)|
