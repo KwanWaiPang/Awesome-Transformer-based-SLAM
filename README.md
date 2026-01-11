@@ -32,6 +32,7 @@ Full SLAM, including pose and depth
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[DePT3R: Joint Dense Point Tracking and 3D Reconstruction of Dynamic Scenes in a Single Forward Pass](https://arxiv.org/pdf/2512.13122)|[![Github stars](https://img.shields.io/github/stars/StructuresComp/DePT3R.svg)](https://github.com/StructuresComp/DePT3R)|---|
 |2025|`arXiv`|[DriveVGGT: Visual Geometry Transformer for Autonomous Driving](https://arxiv.org/pdf/2511.22264)|---|面向自动驾驶的，多相机，VGGT重建|
 |2025|`arXiv`|[Any4D: Unified Feed-Forward Metric 4D Reconstruction](https://arxiv.org/pdf/2512.10935)|[![Github stars](https://img.shields.io/github/stars/Any-4D/Any4D.svg)](https://github.com/Any-4D/Any4D)|[website](https://any-4d.github.io/)|
 |2025|`arXiv`|[Building temporally coherent 3D maps with VGGT for memory-efficient Semantic SLAM](https://arxiv.org/pdf/2511.16282)|---|---| 
