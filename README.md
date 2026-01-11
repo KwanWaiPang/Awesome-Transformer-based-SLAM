@@ -32,7 +32,6 @@ Full SLAM, including pose and depth
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
-|2025|`arXiv`|[DePT3R: Joint Dense Point Tracking and 3D Reconstruction of Dynamic Scenes in a Single Forward Pass](https://arxiv.org/pdf/2512.13122)|[![Github stars](https://img.shields.io/github/stars/StructuresComp/DePT3R.svg)](https://github.com/StructuresComp/DePT3R)|---|
 |2025|`arXiv`|[DriveVGGT: Visual Geometry Transformer for Autonomous Driving](https://arxiv.org/pdf/2511.22264)|---|面向自动驾驶的，多相机，VGGT重建|
 |2025|`arXiv`|[Any4D: Unified Feed-Forward Metric 4D Reconstruction](https://arxiv.org/pdf/2512.10935)|[![Github stars](https://img.shields.io/github/stars/Any-4D/Any4D.svg)](https://github.com/Any-4D/Any4D)|[website](https://any-4d.github.io/)|
 |2025|`arXiv`|[Building temporally coherent 3D maps with VGGT for memory-efficient Semantic SLAM](https://arxiv.org/pdf/2511.16282)|---|---| 
@@ -156,6 +155,7 @@ or depth estimation or 3D reconstruction
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[DePT3R: Joint Dense Point Tracking and 3D Reconstruction of Dynamic Scenes in a Single Forward Pass](https://arxiv.org/pdf/2512.13122)|[![Github stars](https://img.shields.io/github/stars/StructuresComp/DePT3R.svg)](https://github.com/StructuresComp/DePT3R)|利用多张图像实现动态场景的密集点跟踪与3D重建，提取 deep spatio-temporal features，通过dense prediction heads来回归pixel-wise 地图；VGGT+Dense Prediction Transformer（DPT，分别作为Depth Head、Point Head和Motion Head）|
 |2025|`arXiv`|[Depth Anything 3: Recovering the Visual Space from Any Views](https://arxiv.org/pdf/2511.10647)|[![Github stars](https://img.shields.io/github/stars/ByteDance-Seed/Depth-Anything-3.svg)](https://github.com/ByteDance-Seed/Depth-Anything-3)|[website](https://depth-anything-3.github.io/)|
 |2025|`arXiv`|[HTTM: Head-wise Temporal Token Merging for Faster VGGT](https://arxiv.org/pdf/2511.21317)|---|---|
 |2025|`arXiv`|[FastVGGT: Training-Free Acceleration of Visual Geometry Transformer](https://arxiv.org/pdf/2509.02560?)|---|---|
