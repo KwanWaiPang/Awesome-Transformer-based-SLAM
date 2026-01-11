@@ -155,6 +155,7 @@ or depth estimation or 3D reconstruction
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[InfiniteVGGT: Visual Geometry Grounded Transformer for Endless Streams](https://arxiv.org/pdf/2601.02281)|[![Github stars](https://img.shields.io/github/stars/AutoLab-SAI-SJTU/InfiniteVGGT.svg)](https://github.com/AutoLab-SAI-SJTU/InfiniteVGGT)|---|
 |2025|`arXiv`|[DePT3R: Joint Dense Point Tracking and 3D Reconstruction of Dynamic Scenes in a Single Forward Pass](https://arxiv.org/pdf/2512.13122)|[![Github stars](https://img.shields.io/github/stars/StructuresComp/DePT3R.svg)](https://github.com/StructuresComp/DePT3R)|利用多张图像实现动态场景的密集点跟踪与3D重建，提取 deep spatio-temporal features，通过dense prediction heads来回归pixel-wise 地图；VGGT+Dense Prediction Transformer（DPT，分别作为Depth Head、Point Head和Motion Head）|
 |2025|`arXiv`|[Depth Anything 3: Recovering the Visual Space from Any Views](https://arxiv.org/pdf/2511.10647)|[![Github stars](https://img.shields.io/github/stars/ByteDance-Seed/Depth-Anything-3.svg)](https://github.com/ByteDance-Seed/Depth-Anything-3)|[website](https://depth-anything-3.github.io/)|
 |2025|`arXiv`|[HTTM: Head-wise Temporal Token Merging for Faster VGGT](https://arxiv.org/pdf/2511.21317)|---|---|
