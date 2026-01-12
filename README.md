@@ -32,7 +32,7 @@ Full SLAM, including pose and depth
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
-|2025|`arXiv`|[DVGT: Driving Visual Geometry Transformer](https://arxiv.org/pdf/2512.16919)|[![Github stars](https://img.shields.io/github/stars/wzzheng/DVGT.svg)](https://github.com/wzzheng/DVGT)|[website](https://wzzheng.net/DVGT/)|
+|2025|`arXiv`|[DVGT: Driving Visual Geometry Transformer](https://arxiv.org/pdf/2512.16919)|[![Github stars](https://img.shields.io/github/stars/wzzheng/DVGT.svg)](https://github.com/wzzheng/DVGT)|[website](https://wzzheng.net/DVGT/)<br>视觉特征提取部分采用DINOv3作为骨干网络提取视觉特征，然后基于一系列注意力机制（分解式时空注意力/Factorized Spatial-Temporal Attention）实现时空几何关系的理解，最终并行的head输出全局3D点图+Ego Pose|
 |2025|`arXiv`|[DriveVGGT: Visual Geometry Transformer for Autonomous Driving](https://arxiv.org/pdf/2511.22264)|---|面向自动驾驶的，多相机，VGGT重建|
 |2025|`arXiv`|[Any4D: Unified Feed-Forward Metric 4D Reconstruction](https://arxiv.org/pdf/2512.10935)|[![Github stars](https://img.shields.io/github/stars/Any-4D/Any4D.svg)](https://github.com/Any-4D/Any4D)|[website](https://any-4d.github.io/)|
 |2025|`arXiv`|[Building temporally coherent 3D maps with VGGT for memory-efficient Semantic SLAM](https://arxiv.org/pdf/2511.16282)|---|---| 
