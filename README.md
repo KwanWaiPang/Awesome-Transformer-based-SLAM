@@ -156,6 +156,7 @@ or depth estimation or 3D reconstruction
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2026|`arXiv`|[V-DPM: 4D Video Reconstruction with Dynamic Point Maps](https://arxiv.org/pdf/2601.09499)|[![Github stars](https://img.shields.io/github/stars/eldar/vdpm.svg)](https://github.com/eldar/vdpm)|[website](https://www.robots.ox.ac.uk/~vgg/research/vdpm/)|
 |2026|`arXiv`|[MVGGT: Multimodal Visual Geometry Grounded Transformer for Multiview 3D Referring Expression Segmentation](https://arxiv.org/pdf/2601.06874)|[![Github stars](https://img.shields.io/github/stars/sosppxo/mvggt.svg)](https://github.com/sosppxo/mvggt)|从稀疏的RGB图像和文本描述中，同时完成场景重建和目标分割；双分支架构：重建Branch（三维重建）和多模态Branch（接收来自于重建Branch的几何特征，与图像的视觉特征、文本encoder进行融合，实现对描述区域的关注，输出2D mask并投影到3D点云上）|
 |2025|`arXiv`|[One4D: Unified 4D Generation and Reconstruction via Decoupled LoRA Control](https://arxiv.org/pdf/2511.18922)|[![Github stars](https://img.shields.io/github/stars/MiZhenxing/One4D.svg)](https://github.com/MiZhenxing/One4D)|[website](https://mizhenxing.github.io/One4D/)<br>一个模型（视频生成模型Wan Video）同步输出 RGB 视频与 Pointmap（XYZ）几何视频|
 |2025|`arXiv`|[TALO: Pushing 3D Vision Foundation Models Towards Globally Consistent Online Reconstruction](https://arxiv.org/pdf/2512.02341)|[![Github stars](https://img.shields.io/github/stars/Xian-Bei/TALO.svg)](https://github.com/Xian-Bei/TALO)|全局一致性的在线增量建图；基于全局控制点传播与薄板样条变换的精细几何对齐策略，基于重叠相机位姿平均的子地图注册，并支持不同的基础模型（如VGGT，π³、MapAnything）| 
