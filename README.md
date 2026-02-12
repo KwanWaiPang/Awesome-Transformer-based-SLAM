@@ -32,7 +32,7 @@ Full SLAM, including pose and depth
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
-|2025|`arXiv`|[VGGT-SLAM 2.0: Real time Dense Feed-forward Scene Reconstruction](https://arxiv.org/pdf/2601.19887)|---|VGGT-SLAM的高维15自由度对齐会引入漂移，通过强制规定子地图对齐中的两个重叠帧必须具有相同的位置、旋转和标定参数，并求解一致的尺度因子，消除了VGGT子地图对齐的高维漂移与平面退化问题；改进因子图设计（所有关键帧均为节点，图中包含连接子地图内关键帧的内部边，以及连接子地图间重叠帧的中间边）；VGGT注意力层的输出作为图像匹配（建立有效的回环检测），建图完成后可用于检索开放集物体，在Jetson Thor上实现在线实时建图|
+|2025|`arXiv`|[VGGT-SLAM 2.0: Real time Dense Feed-forward Scene Reconstruction](https://arxiv.org/pdf/2601.19887)|---|VGGT-SLAM的高维15自由度对齐会引入漂移，通过强制规定子地图对齐中的两个重叠帧必须具有相同的位置、旋转和标定参数，并求解一致的尺度因子，消除了VGGT子地图对齐的高维漂移与平面退化问题；改进因子图设计（所有关键帧均为节点，图中包含连接子地图内关键帧的内部边，以及连接子地图间重叠帧的中间边/其实也即是正常的因子图）；VGGT注意力层的输出作为图像匹配（建立有效的回环检测），建图完成后可用于检索开放集物体，在Jetson Thor上实现在线实时建图|
 |2025|`arXiv`|[DVGT: Driving Visual Geometry Transformer](https://arxiv.org/pdf/2512.16919)|[![Github stars](https://img.shields.io/github/stars/wzzheng/DVGT.svg)](https://github.com/wzzheng/DVGT)|[website](https://wzzheng.net/DVGT/)<br>视觉特征提取部分采用DINOv3作为骨干网络提取视觉特征，然后基于一系列注意力机制（分解式时空注意力/Factorized Spatial-Temporal Attention）实现时空几何关系的理解，最终并行的head输出全局3D点图+Ego Pose|
 |2025|`arXiv`|[DriveVGGT: Visual Geometry Transformer for Autonomous Driving](https://arxiv.org/pdf/2511.22264)|---|面向自动驾驶的，多相机，VGGT重建|
 |2025|`arXiv`|[Any4D: Unified Feed-Forward Metric 4D Reconstruction](https://arxiv.org/pdf/2512.10935)|[![Github stars](https://img.shields.io/github/stars/Any-4D/Any4D.svg)](https://github.com/Any-4D/Any4D)|[website](https://any-4d.github.io/)|
