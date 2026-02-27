@@ -32,7 +32,7 @@ Full SLAM, including pose and depth
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
-|2025|`arXiv`|[VGGT-SLAM 2.0: Real time Dense Feed-forward Scene Reconstruction](https://arxiv.org/pdf/2601.19887)|---|VGGT-SLAM的高维15自由度对齐会引入漂移，通过强制规定子地图对齐中的两个重叠帧必须具有相同的位置、旋转和标定参数，并求解一致的尺度因子，消除了VGGT子地图对齐的高维漂移与平面退化问题；改进因子图设计（所有关键帧均为节点，图中包含连接子地图内关键帧的内部边，以及连接子地图间重叠帧的中间边/其实也即是正常的因子图）；VGGT注意力层的输出作为图像匹配（建立有效的回环检测），建图完成后可用于检索开放集物体，在Jetson Thor上实现在线实时建图|
+|2025|`arXiv`|[VGGT-SLAM 2.0: Real time Dense Feed-forward Scene Reconstruction](https://arxiv.org/pdf/2601.19887)| [![Github stars](https://img.shields.io/github/stars/MIT-SPARK/VGGT-SLAM.svg)](https://github.com/MIT-SPARK/VGGT-SLAM)|VGGT-SLAM的高维15自由度对齐会引入漂移，通过强制规定子地图对齐中的两个重叠帧必须具有相同的位置、旋转和标定参数，并求解一致的尺度因子，消除了VGGT子地图对齐的高维漂移与平面退化问题；改进因子图设计（所有关键帧均为节点，图中包含连接子地图内关键帧的内部边，以及连接子地图间重叠帧的中间边/其实也即是正常的因子图）；VGGT注意力层的输出作为图像匹配（建立有效的回环检测），建图完成后可用于检索开放集物体，在Jetson Thor上实现在线实时建图|
 |2025|`arXiv`|[DVGT: Driving Visual Geometry Transformer](https://arxiv.org/pdf/2512.16919)|[![Github stars](https://img.shields.io/github/stars/wzzheng/DVGT.svg)](https://github.com/wzzheng/DVGT)|[website](https://wzzheng.net/DVGT/)<br>视觉特征提取部分采用DINOv3作为骨干网络提取视觉特征，然后基于一系列注意力机制（分解式时空注意力/Factorized Spatial-Temporal Attention）实现时空几何关系的理解，最终并行的head输出全局3D点图+Ego Pose|
 |2025|`arXiv`|[DriveVGGT: Visual Geometry Transformer for Autonomous Driving](https://arxiv.org/pdf/2511.22264)|---|面向自动驾驶的，多相机，VGGT重建|
 |2025|`arXiv`|[Any4D: Unified Feed-Forward Metric 4D Reconstruction](https://arxiv.org/pdf/2512.10935)|[![Github stars](https://img.shields.io/github/stars/Any-4D/Any4D.svg)](https://github.com/Any-4D/Any4D)|[website](https://any-4d.github.io/)|
@@ -49,7 +49,7 @@ Full SLAM, including pose and depth
 |2025|`arXiv`|[ViSTA-SLAM: Visual SLAM with Symmetric Two-view Association](https://arxiv.org/pdf/2509.01584)|[![Github stars](https://img.shields.io/github/stars/zhangganlin/vista-slam.svg)](https://github.com/zhangganlin/vista-slam)|[website](https://ganlinzhang.xyz/vista-slam/)|
 |2025|`arXiv`|[VGGT-Long: Chunk it, Loop it, Align it – Pushing VGGT’s Limits on Kilometer-scale Long RGB Sequences](https://arxiv.org/pdf/2507.16443)|[![Github stars](https://img.shields.io/github/stars/DengKaiCQ/VGGT-Long.svg)](https://github.com/DengKaiCQ/VGGT-Long)|---|
 |2025|`arXiv`|[DINO-SLAM: DINO-informed RGB-D SLAM for Neural Implicit and Explicit Representations](https://arxiv.org/pdf/2507.19474)|---|---|
-|2025|`arXiv`|[VGGT-SLAM: Dense RGB SLAM Optimized on the SL(4) Manifold](https://arxiv.org/pdf/2505.12549)|---|---| 
+|2025|`arXiv`|[VGGT-SLAM: Dense RGB SLAM Optimized on the SL(4) Manifold](https://arxiv.org/pdf/2505.12549)|[![Github stars](https://img.shields.io/github/stars/MIT-SPARK/VGGT-SLAM.svg)](https://github.com/MIT-SPARK/VGGT-SLAM)|---| 
 |2025|`arXiv`|[3R-GS: Best Practice in Optimizing Camera Poses Along with 3DGS](https://arxiv.org/pdf/2504.04294)|---|[website](https://zsh523.github.io/3R-GS/)<br>MASt3R-SfM+3DGS| 
 |2025|`CVPR`|[AnyCam: Learning to Recover Camera Poses and Intrinsics from Casual Videos](https://arxiv.org/pdf/2503.23282)| [![Github stars](https://img.shields.io/github/stars/Brummi/anycam.svg)](https://github.com/Brummi/anycam)|[website](https://fwmb.github.io/anycam/)|
 |2025|`CVPR`|[SLAM3R: Real-Time Dense Scene Reconstruction from Monocular RGB Videos](https://arxiv.org/pdf/2412.09401)|[![Github stars](https://img.shields.io/github/stars/PKU-VCL-3DV/SLAM3R.svg)](https://github.com/PKU-VCL-3DV/SLAM3R)|[test](https://kwanwaipang.github.io/SLAM3R/)|
