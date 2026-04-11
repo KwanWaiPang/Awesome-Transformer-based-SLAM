@@ -157,6 +157,7 @@ or depth estimation or 3D reconstruction
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2026|`arXiv`|[Flow4R: Unifying 4D Reconstruction and Tracking with Scene Flow](https://arxiv.org/pdf/2602.14021)|---|[website](https://shenhanqian.github.io/flow4r)<br>Flow4R会对每一幅图像预测点位置、场景流、姿态权重和置信度,其中，场景流实现了捕捉点相对于摄像机的运动情况|
 |2026|`CVPR`|[LiteVGGT: Boosting Vanilla VGGT via Geometry-aware Cached Token Merging](https://arxiv.org/pdf/2512.04939)|[![Github stars](https://img.shields.io/github/stars/GarlicBa/LiteVGGT-repo.svg)](https://github.com/GarlicBa/LiteVGGT-repo)|[website](https://garlicba.github.io/LiteVGGT/)<br>提出了一种geometry-aware token merging策略（减少冗余），此外，结合微调和FP8量化，使得原本的VGGT可以处理1000张图，推理加速10倍|
 |2026|`arXiv`|[Fast-SAM3D: 3Dfy Anything in Images but Faster](https://arxiv.org/pdf/2602.05293)|[![Github stars](https://img.shields.io/github/stars/wlfeng0509/Fast-SAM3D.svg)](https://github.com/wlfeng0509/Fast-SAM3D)|从输入图片中重构物体三维模型|
 |2026|`arXiv`|[Masked Depth Modeling for Spatial Perception](https://arxiv.org/pdf/2601.17895)|[![Github stars](https://img.shields.io/github/stars/robbyant/lingbot-depth.svg)](https://github.com/robbyant/lingbot-depth) |[website](https://technology.robbyant.com/lingbot-depth)<br>面向真实场景的深度补全模型：将传感器失效区域视为可学习的结构线索而非简单噪声，通过掩码深度建模（Masked Depth Modeling, MDM）机制充分利用 RGB 图像中的视觉上下文信息，对缺失深度区域进行智能推断与补全。架构：RGB+Deoth输入ViT（标准架构）；合成数据LingBot Depth-S（生成带有自然缺陷的逼真深度观测值，442个室内场景中渲染了100万个合成样本）+真实数据LingBot Depth-R（200万个场景）+开源数据集补充（共1000万个训练样本）|
