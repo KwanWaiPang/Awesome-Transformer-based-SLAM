@@ -159,6 +159,8 @@ or depth estimation or 3D reconstruction
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2026|`arXiv`|[MeMix: Writing Less, Remembering More for Streaming 3D Reconstruction](https://arxiv.org/pdf/2603.15330)|[![Github stars](https://img.shields.io/github/stars/dongjiacheng06/MeMix.svg)](https://github.com/dongjiacheng06/MeMix)|[website](https://dongjiacheng06.github.io/MeMix/) <br> “流式 3D 重建”是指模型像人眼一样，不断接收连续的视频帧流，并实时构建周围的 3D 场景。
+为了处理无限长的视频流，现有的主流模型通常采用“循环状态（Recurrent State）”机制——即把过去的记忆压缩到一个固定大小的状态中。本文不再把状态看作一个整体，而是将其划分为多个独立的记忆补丁(patches)，然后选择性的更新，这样可以避免长序列的遗忘问题。|
 |2025|`arXiv`|[4D-VGGT: A General Foundation Model with SpatioTemporal Awareness for Dynamic Scene Geometry Estimation](https://arxiv.org/pdf/2511.18416v1)|---|Multi-level representation:对于空间（Spatial），采用“跨视图的全局融合（cross-view global fusion）”，以确保同一时刻下多视角几何的全局一致性。对于时间（Temporal），采用“跨时间的局部融合（cross-time local fusion）”，以精准捕捉物体在前后帧之间的局部运动细节。在获取了时空特征的基础上，通过多个prediction head来预测深度、场景流等|
 |2026|`arXiv`|[OVGGT: O (1) Constant-Cost Streaming Visual Geometry Transformer](https://arxiv.org/pdf/2603.05959)|[![Github stars](https://img.shields.io/github/stars/VAISR/OVGGT.svg)](https://github.com/VAISR/OVGGT)|[website](https://vaisr.github.io/OVGGT/) <br>  Self-Selective Caching (SSC,自选择性缓存) and Dynamic Anchor Protection (DAP，动态锚点保护)。固定的显存下，处理任意长度序列|
 |2026|`arXiv`|[VGG-T^3: Offline Feed-Forward 3D Reconstruction at Scale](https://arxiv.org/pdf/2602.23361)|---|[website](https://research.nvidia.com/labs/dvl/projects/vgg-ttt/)<br>离线的大尺度3D重建，对2K张图片，48.5秒可实现三维重建，比VGGT快33倍。将 VGGT 中的可变长度场景表征（KV 空间）压缩为固定尺寸的 MLP 权重，从而将复杂度从二次降为线性O(n)；将 VGGT 中的 全局 Softmax Attention 模块 替换为一套基于 测试时训练（Test-Time Training, TTT） 的线性模块|
