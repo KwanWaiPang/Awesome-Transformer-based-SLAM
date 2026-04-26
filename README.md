@@ -159,6 +159,7 @@ or depth estimation or 3D reconstruction
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2026|`arXiv`|[OVGGT: O (1) Constant-Cost Streaming Visual Geometry Transformer](https://arxiv.org/pdf/2603.05959)|[![Github stars](https://img.shields.io/github/stars/VAISR/OVGGT.svg)](https://github.com/VAISR/OVGGT)|[website](https://vaisr.github.io/OVGGT/) <br>  Self-Selective Caching (SSC,自选择性缓存) and Dynamic Anchor Protection (DAP，动态锚点保护)。固定的显存下，处理任意长度序列|
 |2026|`arXiv`|[VGG-T^3: Offline Feed-Forward 3D Reconstruction at Scale](https://arxiv.org/pdf/2602.23361)|---|[website](https://research.nvidia.com/labs/dvl/projects/vgg-ttt/)<br>离线的大尺度3D重建，对2K张图片，48.5秒可实现三维重建，比VGGT快33倍。将 VGGT 中的可变长度场景表征（KV 空间）压缩为固定尺寸的 MLP 权重，从而将复杂度从二次降为线性O(n)；将 VGGT 中的 全局 Softmax Attention 模块 替换为一套基于 测试时训练（Test-Time Training, TTT） 的线性模块|
 |2026|`arXiv`|[Flow4R: Unifying 4D Reconstruction and Tracking with Scene Flow](https://arxiv.org/pdf/2602.14021)|---|[website](https://shenhanqian.github.io/flow4r)<br>Flow4R会对每一幅图像预测点位置（相当于pointmap）、场景流、姿态权重和置信度,其中，场景流（scene flow）实现了捕捉点相对于摄像机的运动情况，概括来说就是一个模型同时看懂场景、跟踪物体、估相机运动、完成重建”，而它选择的统一语言不是传统位姿或深度，而是 scene flow|
 |2026|`CVPR`|[LiteVGGT: Boosting Vanilla VGGT via Geometry-aware Cached Token Merging](https://arxiv.org/pdf/2512.04939)|[![Github stars](https://img.shields.io/github/stars/GarlicBa/LiteVGGT-repo.svg)](https://github.com/GarlicBa/LiteVGGT-repo)|[website](https://garlicba.github.io/LiteVGGT/)<br>提出了一种geometry-aware token merging策略（减少冗余），此外，结合微调和FP8量化，使得原本的VGGT可以处理1000张图，推理加速10倍|
