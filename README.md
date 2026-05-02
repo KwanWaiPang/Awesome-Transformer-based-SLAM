@@ -69,6 +69,7 @@ or pose/state estimation
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2026|`CVPR`|[Dark3R: Learning Structure from Motion in the Dark](https://arxiv.org/pdf/2603.05330)|[![Github stars](https://img.shields.io/github/stars/andrewyguo/Dark3R.svg)](https://github.com/andrewyguo/Dark3R)|[website](https://andrewyguo.github.io/dark3r_webpage/) <br> 用于暗光环境下SfM的端到端框架,将近期3D基础模型（如MASt3R）学习到的强先验知识适应到弱光环境.受师生知识蒸馏的启发，我们开发了一种训练策略，该策略将在良好曝光的原始图像对上由MASt3R预测的密集特征图，与在弱光原始图像对上由学生模型产生的特征图对齐|
 |2025|`arXiv`|[MASt3R-Fusion: Integrating Feed-Forward Visual Model with IMU, GNSS for High-Functionality SLAM](https://arxiv.org/pdf/2509.20757)|[![Github stars](https://img.shields.io/github/stars/GREAT-WHU/MASt3R-Fusion.svg)](https://github.com/GREAT-WHU/MASt3R-Fusion)|---|
 |2025|`CVPR`|[Reloc3r: Large-scale training of relative camera pose regression for generalizable, fast, and accurate visual localization](https://openaccess.thecvf.com/content/CVPR2025/papers/Dong_Reloc3r_Large-Scale_Training_of_Relative_Camera_Pose_Regression_for_Generalizable_CVPR_2025_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/ffrivera0/reloc3r.svg)](https://github.com/ffrivera0/reloc3r)|---|
 |2025|`arXiv`|[Dense-depth map guided deep Lidar-Visual Odometry with Sparse Point Clouds and Images](https://arxiv.org/pdf/2507.15496)|---|---|
