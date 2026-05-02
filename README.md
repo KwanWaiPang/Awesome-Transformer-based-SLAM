@@ -161,6 +161,7 @@ or depth estimation or 3D reconstruction
 
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2026|`CVPR`|[PanoVGGT: Feed-Forward 3D Reconstruction from Panoramic Imagery](https://arxiv.org/pdf/2603.17571)|---|基于全景图的前馈三维重建；引入了针对全景图像的特殊三轴SO(3)旋转处理机制，关键应该是数据集|
 |2026|`ICLR`|[PAGE-4D: Disentangled Pose and Geometry Estimation for VGGT-4D Perception](https://arxiv.org/pdf/2510.17568)|[![Github stars](https://img.shields.io/github/stars/kaichen-z/PAGE4D.svg)](https://github.com/kaichen-z/PAGE4D) |[website](https://page4d.github.io/) <br> 通过对VGGT关键层的特征可视化分析，研究团队观察到动态区域表现出比静态区域更弱的激活，这表明VGGT倾向于忽略动态内容。提出Dynamics-aware Aggregator：通过三个模块整合空间和时间线索——Frame Attention用于帧间patch关系，Global Attention用于帧内patch关系，Dynamics-Aware Global Attention用于解耦动态和静态内容；Dynamics-aware Aggregator预测动态感知掩码，实现静态与动态信息的解耦：在姿态估计中抑制运动线索，在几何重建中增强动态表示。|
 |2026|`arXiv`|[MeMix: Writing Less, Remembering More for Streaming 3D Reconstruction](https://arxiv.org/pdf/2603.15330)|[![Github stars](https://img.shields.io/github/stars/dongjiacheng06/MeMix.svg)](https://github.com/dongjiacheng06/MeMix)|[website](https://dongjiacheng06.github.io/MeMix/) <br> “流式 3D 重建”是指模型像人眼一样，不断接收连续的视频帧流，并实时构建周围的 3D 场景。
 为了处理无限长的视频流，现有的主流模型通常采用“循环状态（Recurrent State）”机制——即把过去的记忆压缩到一个固定大小的状态中。本文不再把状态看作一个整体，而是将其划分为多个独立的记忆补丁(patches)，然后选择性的更新，这样可以避免长序列的遗忘问题。|
