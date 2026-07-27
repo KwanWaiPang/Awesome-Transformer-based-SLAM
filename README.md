@@ -31,7 +31,7 @@ Full SLAM, including pose and depth
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 
 | Year | Venue | Paper Title | Repository | Note |
-|:----:|:-----:| ----------- |:----------:|:----:|
+|:----:|:-----:| ----------- |:----------:| ----------- |
 |2026|`CVPR`|[VGGT-SLAM++](https://arxiv.org/pdf/2604.06830)|---|将VGGT的输出与Sim(3)模型相结合，后端优先采用高频率的局部BA，提出 Digital Elevation Map (DEM数字高程图)作为地图表征，结合DINOv2实现回环；| 
 |2026|`arXiv`|[SceneVGGT: VGGT-based online 3D semantic SLAM for indoor scene understanding and navigation](https://arxiv.org/pdf/2602.15899)|[![Github stars](https://img.shields.io/github/stars/HBVC-AI/SceneVGGT.svg)](https://github.com/HBVC-AI/SceneVGGT/)|[website](https://hbvc-ai.github.io/SceneVGGT/) <br> 采用YOLOv9e对2D RGB进行分割，用VGGT实现2D语义到3D到映射；采用滑动窗口方法处理连续视频流，将流划分为大小为 n 的连续不相交块，每个窗口包含当前块和前一个块的部分帧作为关键帧锚点。通过这些重叠的锚帧估计块间的位姿变换，使当前块的相对变换与先前累积的轨迹对齐，确保连续子地图与初始全局锚点对齐。将VGGT预测的深度与LiDAR到深度进行对齐获取绝对尺度。RTX 4090 上速度为7.23fps|
 |2025|`arXiv`|[Dynamic Visual SLAM using a General 3D Prior](https://arxiv.org/pdf/2512.06868)|[![Github stars](https://img.shields.io/github/stars/PRBonn/Pi3MOS-SLAM.svg)](https://github.com/PRBonn/Pi3MOS-SLAM)|采用patch-based bundle adjustment（DPV-SLAM）与前馈模型（π³mos）相结合的方式实现SLAM，通过前馈模型来过滤动态区域，然后用深度预测来进行inpainting；π³mos是基于π³的，先通过DINOv2来提取语义（移动物体）；对于每帧的输入，π³预测pixel motion以及深度图，然后走dpv-slam的流程实现定位与建图|
@@ -68,7 +68,7 @@ or pose/state estimation
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 
 | Year | Venue | Paper Title | Repository | Note |
-|:----:|:-----:| ----------- |:----------:|:----:|
+|:----:|:-----:| ----------- |:----------:| ----------- |
 |2026|`CVPR`|[Dark3R: Learning Structure from Motion in the Dark](https://arxiv.org/pdf/2603.05330)|[![Github stars](https://img.shields.io/github/stars/andrewyguo/Dark3R.svg)](https://github.com/andrewyguo/Dark3R)|[website](https://andrewyguo.github.io/dark3r_webpage/) <br> 用于暗光环境下SfM的端到端框架,将近期3D基础模型（如MASt3R）学习到的强先验知识适应到弱光环境.受师生知识蒸馏的启发，我们开发了一种训练策略，该策略将在良好曝光的原始图像对上由MASt3R预测的密集特征图，与在弱光原始图像对上由学生模型产生的特征图对齐|
 |2025|`arXiv`|[MASt3R-Fusion: Integrating Feed-Forward Visual Model with IMU, GNSS for High-Functionality SLAM](https://arxiv.org/pdf/2509.20757)|[![Github stars](https://img.shields.io/github/stars/GREAT-WHU/MASt3R-Fusion.svg)](https://github.com/GREAT-WHU/MASt3R-Fusion)|---|
 |2025|`CVPR`|[Reloc3r: Large-scale training of relative camera pose regression for generalizable, fast, and accurate visual localization](https://openaccess.thecvf.com/content/CVPR2025/papers/Dong_Reloc3r_Large-Scale_Training_of_Relative_Camera_Pose_Regression_for_Generalizable_CVPR_2025_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/ffrivera0/reloc3r.svg)](https://github.com/ffrivera0/reloc3r)|---|
@@ -104,7 +104,7 @@ or pose/state estimation
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 
 | Year | Venue | Paper Title | Repository | Note |
-|:----:|:-----:| ----------- |:----------:|:----:|
+|:----:|:-----:| ----------- |:----------:| ----------- |
 |2024|`ECCV`|[Cotracker: It is better to track together](https://arxiv.org/pdf/2307.07635)|[![Github stars](https://img.shields.io/github/stars/facebookresearch/co-tracker.svg)](https://github.com/facebookresearch/co-tracker)|---|
 |2023|`arXiv`|[Win-win: Training high-resolution vision transformers from two windows](https://arxiv.org/pdf/2310.00632)|---|---|
 |2023|`arXiv`|[Flowformer: A transformer architecture and its masked cost volume autoencoding for optical flow](https://arxiv.org/pdf/2306.05442)|---|---|
@@ -129,7 +129,7 @@ or Data Association, Correspondences
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 
 | Year | Venue | Paper Title | Repository | Note |
-|:----:|:-----:| ----------- |:----------:|:----:|
+|:----:|:-----:| ----------- |:----------:| ----------- |
 |2025|`arXiv`|[TAPIP3D: Tracking Any Point in Persistent 3D Geometry](https://arxiv.org/pdf/2504.14717)|[![Github stars](https://img.shields.io/github/stars/zbw001/TAPIP3D.svg)](https://github.com/zbw001/TAPIP3D)|[website](https://tapip3d.github.io/)|
 |2025|`CVPR`|[DEFOM-Stereo: Depth Foundation Model Based Stereo Matching](https://arxiv.org/pdf/2501.09466)|[![Github stars](https://img.shields.io/github/stars/Insta360-Research-Team/DEFOM-Stereo.svg)](https://github.com/Insta360-Research-Team/DEFOM-Stereo)|[website](https://insta360-research-team.github.io/DEFOM-Stereo/)<br>depth anything v2 + RAFT-Stereo|
 |2025|`arXiv`|[MatchAnything: Universal Cross-Modality Image Matching with Large-Scale Pre-Training](https://arxiv.org/pdf/2501.07556?)|[![Github stars](https://img.shields.io/github/stars/zju3dv/MatchAnything.svg)](https://github.com/zju3dv/MatchAnything)|[website](https://zju3dv.github.io/MatchAnything/)|
@@ -161,7 +161,7 @@ or depth estimation or 3D reconstruction
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 
 | Year | Venue | Paper Title | Repository | Note |
-|:----:|:-----:| ----------- |:----------:|:----:|
+|:----:|:-----:| ----------- |:----------:| ----------- |
 |2026|`arXiv`|[Spark3R: Asymmetric Token Reduction Makes Fast Feed-Forward 3D Reconstruction](https://arxiv.org/pdf/2605.06270)|---|无需训练(即插即用)，加速前馈3D重建模型，兼容VGGT、π3 、DepthAnythingV3（1000帧上高达28倍加速）.将query tokens 和 key-value tokens的压缩解耦了，并分别配不同的压缩算子。ayer-adaptive key-value reduction schedule ：根据每个全局注意力层对压缩的实测敏感性，调整其键值缩减因子|
 |2026|`CVPR`|[From None to All: Self-Supervised 3D Reconstruction via Novel View Synthesis](https://arxiv.org/pdf/2603.27455)|[![Github stars](https://img.shields.io/github/stars/ranrhuang/NAS3R.svg)](https://github.com/ranrhuang/NAS3R)|[website](https://ranrhuang.github.io/nas3r/) <br> 通过自监督的方式来学习显式的3D几何和相机内外参。通过重构3DGS，然后渲染，利用2D图像的自监督|
 |2026|`CVPR`|[VGGT-Ω](https://arxiv.org/pdf/2605.15195)|[![Github stars](https://img.shields.io/github/stars/facebookresearch/vggt-omega.svg)](https://github.com/facebookresearch/vggt-omega)|[website](https://vggt-omega.github.io/) <br> 将模型参数量扩展至10B，引入寄存器注意力（Register Attention）：ViT往往自发利用小部分的Token携带全局信息，因此作者在 25% 的全局注意力层中，不同帧之间的信息交换被严格限制在寄存器之间，形成了有效的信息瓶颈，强制寄存器提取高层几何特征；对于解码头进行显存优化；从4000万数据中选出80万高质量序列，结合合成数据有400万个带3D label的训练序列（原本VGGT的15倍以上）。|
@@ -288,7 +288,7 @@ or depth estimation or 3D reconstruction
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 
 | Year | Venue | Paper Title | Repository | Note |
-|:----:|:-----:| ----------- |:----------:|:----:|
+|:----:|:-----:| ----------- |:----------:| ----------- |
 |2025|`arXiv`|[DINOV3](https://scontent-cdg4-2.xx.fbcdn.net/v/t39.2365-6/531524719_1692810264763997_2330122477414087224_n.pdf?_nc_cat=103&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=rWT0y-myJjoQ7kNvwExrM1a&_nc_oc=AdmEueP_BQT-RlStayE_OKexSwO_NAMEIbE0JGlbtgUivJ5YXxVR3KuqPzd1JlyrXFY&_nc_zt=14&_nc_ht=scontent-cdg4-2.xx&_nc_gid=jLj8xdPxsbkJsOQT0kQ8Rw&oh=00_AfU8JD6wytBwsCvDU7Gvcf6B0mvhzff58grM9ZxUw0Vkkw&oe=68A4D0A8)|[![Github stars](https://img.shields.io/github/stars/facebookresearch/dinov3.svg)](https://github.com/facebookresearch/dinov3)|[website](https://ai.meta.com/dinov3/)|
 |2024|`Transactions on Machine Learning Research Journal`|[Dinov2: Learning robust visual features without supervision](https://arxiv.org/pdf/2304.07193)|[![Github stars](https://img.shields.io/github/stars/facebookresearch/dinov2.svg)](https://github.com/facebookresearch/dinov2)|DINO2|
 |2021|`ICML`|[Is space-time attention all you need for video understanding?](https://arxiv.org/pdf/2102.05095)|[![Github stars](https://img.shields.io/github/stars/facebookresearch/TimeSformer.svg)](https://github.com/facebookresearch/TimeSformer)|TimeSformer|
